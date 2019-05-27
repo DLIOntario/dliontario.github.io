@@ -1,1 +1,10 @@
-
+ - title: Home
+  url: /index.md
+- title: 2019 Porgram and Registration
+  url: /2019program.md
+- title: Directions
+  url: /registration.md
+- title: Local information
+  url: /local.md
+- title: Past Programs
+  url: /pastprograms.md
