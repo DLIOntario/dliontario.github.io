@@ -1,0 +1,15 @@
+- title: "Register"
+  href: "/register/"
+
+- title: "Schedule"
+  href: "/schedule/"
+
+- title: "Local Arrangements"
+  href: "/local/"
+
+- title: "Contact"
+  href: "/contact/"
+
+
+# - title: "Feedback" 
+#  href: "/feedback/"
