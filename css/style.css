@@ -80,7 +80,7 @@ pre {
 /* Text-level semantics
    ========================================================================== */
 /**
- * 1. Remove the gray background on active links in IE 10.
+ * 1. Remove the $grey background on active links in IE 10.
  * 2. Remove gaps in links underline in iOS 8+ and Safari 8+.
  */
 a {
@@ -489,7 +489,7 @@ CLEAR AFTER FLOATS
 BUTTON DEFAULTS
 ***************/
 .button, .button-secondary, .button-tertiary, .button__outline {
-  background-color: seagreen;
+  background-color: $grey;
   display: inline-block;
   position: relative;
   font-family: "Open Sans", Helvetica, Arial, sans-serif;
@@ -507,7 +507,7 @@ BUTTON DEFAULTS
   .button:hover, .button-secondary:hover, .button-tertiary:hover, .button__outline:hover, .button:focus, .button-secondary:focus, .button-tertiary:focus, .button__outline:focus {
     color: #fff;
     text-decoration: none;
-    background-color: #21653f; }
+    background-color: #293e4a; }
   .button:active, .button-secondary:active, .button-tertiary:active, .button__outline:active {
     top: 1px; }
 
@@ -523,10 +523,10 @@ BUTTON DEFAULTS
 
 .button__outline {
   background-color: transparent;
-  border: 3px solid seagreen;
-  color: seagreen; }
+  border: 3px solid $grey;
+  color: $grey; }
   .button__outline:hover {
-    background-color: seagreen;
+    background-color: $grey;
     color: #fff; }
 
 /***************
@@ -545,7 +545,7 @@ input[type=text], input[type=email], input[type=phone], input[type=password], in
   width: 300px;
   margin-bottom: .5rem; }
   input[type=text]:focus, input[type=email]:focus, input[type=phone]:focus, input[type=password]:focus, input[type=number]:focus, input[type=search]:focus, textarea:focus {
-    border: 1px solid seagreen; }
+    border: 1px solid $grey; }
   input[type=text].full-width, input[type=email].full-width, input[type=phone].full-width, input[type=password].full-width, input[type=number].full-width, input[type=search].full-width, textarea.full-width {
     width: 100%; }
 
@@ -570,7 +570,7 @@ form {
 /***************
 TABLE STYLES
 ***************/
-table {
+/*table {
   width: 100%;
   border: 1px solid #d0d0d0;
   margin-bottom: 1.5em; }
@@ -598,6 +598,40 @@ th {
   border-right: 1px solid #d0d0d0; }
   th:last-child {
     border-right: 0; }
+ */
+ 
+table {
+	margin-bottom:20px;
+	width:80%;
+	table-layout:fixed;
+	border-collapse: collapse;
+	font-size: 0.75em;
+}
+
+td,th {
+	padding:5px;
+	border-bottom: 1px solid #ddd;
+}
+
+th {
+	font-weight:bold;
+}
+   
+.time {
+  width: 15%;
+  text-align: center;
+}
+
+.session {
+  width: 55%;
+}
+
+.name {
+  width: 30%;
+}
+
+.one tbody tr:nth-of-type(odd){
+	background:#F0F0F0;
 
 /***************
   Darkly Pygments Theme
@@ -686,11 +720,11 @@ body {
     margin: 0 0 2rem; }
 
 ::-moz-selection {
-  background: seagreen;
+  background: $grey;
   color: white; }
 
 ::selection {
-  background: seagreen;
+  background: $grey;
   color: white; }
 
 img, video, audio, iframe, object {
@@ -704,9 +738,9 @@ img, video, audio, iframe, object {
 LINK STYLING
 ***************/
 a {
-  color: seagreen; }
+  color: #293e4a; }
   a:hover {
-    color: #1b5233; }
+    color: #293e4a; }
 
 /***************
 MENU STYLING
@@ -722,7 +756,7 @@ MENU STYLING
     .nav-collapse ul li {
       width: 100%;
       display: block;
-      background: seagreen;
+      background: $grey;
       border-bottom: 2px solid #349e63; }
       .nav-collapse ul li a {
         color: white;
@@ -753,7 +787,7 @@ MENU STYLING
   float: right;
   line-height: 2em;
   margin-top: .5em;
-  background-color: seagreen;
+  background-color: $grey;
   border-radius: 4px;
   padding: 0 .5em;
   color: white;
@@ -763,7 +797,7 @@ MENU STYLING
   transition: all 0.2s ease-in-out; }
   .nav-toggle:hover {
     color: white;
-    background-color: #21653f; }
+    background-color: #293e4a; }
 
 /***************
 LIST STYLING
@@ -800,7 +834,7 @@ PAGE STYLES
 HEADER STYLING
 ***************/
 .header {
-  background-color: seagreen;
+  background-color: #334f5e;
   background-image: url("../img/DLI-header.jpg");
   background-size: cover;
   background-position: center center;
@@ -841,7 +875,7 @@ POST STYLING
     content: "";
     position: absolute;
     top: -1.25em;
-    background: seagreen;
+    background: $grey;
     display: block;
     height: 2px;
     width: 150px;
@@ -850,7 +884,7 @@ POST STYLING
     content: "";
     position: absolute;
     bottom: -1.25em;
-    background: seagreen;
+    background: $grey;
     display: block;
     height: 2px;
     width: 150px;
@@ -858,7 +892,7 @@ POST STYLING
 
 .post .meta {
   text-align: center;
-  color: gray;
+  color: $grey;
   font-family: "Open Sans", Helvetica, Arial, sans-serif;
   font-weight: 300; }
 
@@ -881,7 +915,7 @@ POST STYLING
   margin-bottom: 2rem; }
 
 .post .dropcap {
-  color: seagreen;
+  color: $grey;
   margin-right: .45rem; }
 
 .post .featuredImage {
@@ -970,11 +1004,11 @@ FOOTER STYLING
           width: 100%;
           height: 100%; }
           .footer-links ul li a svg .outer-shape {
-            fill: seagreen; }
+            fill: $grey; }
           .footer-links ul li a svg .inner-shape {
             fill: white; }
       .footer-links ul li:hover a svg .outer-shape {
-        fill: #21653f; }
+        fill: #293e4a; }
 
 /***************
 PAGINATION STYLING
@@ -1004,7 +1038,7 @@ POST LIST STYLING
     .posts li a:hover {
       text-decoration: underline; }
   .posts li .date {
-    color: gray;
+    color: $grey;
     font-family: "Open Sans", Helvetica, Arial, sans-serif;
     font-weight: 300;
     font-size: .8em; }
@@ -1037,7 +1071,7 @@ GLOBAL STYLES
     max-width: 800px;
     margin-left: auto;
     margin-right: auto;
-    padding: 0;
+    padding: 2em;
     overflow: hidden; }
   /***************
 HOMEPAGE STYLING
