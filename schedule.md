@@ -1,7 +1,7 @@
 ---
-layout: default
+layout: page
+title: Schedule
 ---
-
 <table class="one">
   <thead>
     <tr>
