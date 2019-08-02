@@ -1,6 +1,7 @@
 ---
-layout: default
+layout: page
 title: Schedule
+permalink: /schedule/
 ---
 
 <table class="one">
