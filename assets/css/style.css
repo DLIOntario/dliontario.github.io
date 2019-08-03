@@ -464,9 +464,9 @@ table{
 	font-size:.85em;
 }
 
-@media screen and (max-device-width: 640px) {
+@media screen and (max-device-width: 750px) {
 	table{
-	font-size:75%;
+	font-size:75em;
 	}	
 }
 
