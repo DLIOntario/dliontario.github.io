@@ -17,19 +17,19 @@ permalink: /schedule/
   <tbody>
     <tr>
 	<td>0830-0900</td>
-	<td>LIB389</td>
+	<td>LIB 389</td>
 	<td><a name="1-1" href="/program/#1-1">Arrival and Refreshments: DLI Chat with new those new to DLI or the DLI Contact role</a></td>
 	<td>Geneviève Jourdain, Stats Can</td>
     </tr>
     <tr>
     <td>0900-0930</td>
-    <td>LIB389</td>
+    <td>LIB 389</td>
     <td><a name="1-2" href="/program/#1-2">Welcome and Housekeeping</a></td>
     <td></td>
     </tr>
     <tr>
     <td>0930-1015</td>
-    <td>LIB389</td>
+    <td>LIB 389</td>
     <td><a name="1-3" href="/program/#1-3">DLI Update</a></td>
     <td>Geneviève Jourdain</td>
     </tr>
@@ -59,7 +59,7 @@ permalink: /schedule/
     </tr>
     <tr>
     <td>1330-1500</td>
-    <td>LIB393A</td>
+    <td>LIB 393A</td>
     <td><a name="1-7b" href="/program/#1-7b">Workshop B: Mapping Census data from CHASS</a></td>
     <td>Tomasz Mrozewski, Laurentian University; Francine Berish, Queen’s University</td>
     </tr>

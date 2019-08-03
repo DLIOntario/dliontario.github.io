@@ -474,20 +474,20 @@ th{
 }
 
 .hour {
-  width: 15%;
+  width: 18%;
   text-align: center;
 }
 
 .loc {
-  width: 15%;
+  width: 18%;
 }
 
 .session {
-  width: 40%;
+  width: 37%;
 }
 
 .name {
-  width: 30%;
+  width: 27%;
 }
 
 .one tbody tr:nth-of-type(odd){
