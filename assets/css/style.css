@@ -494,13 +494,13 @@ th{
 	background:#F0F0F0;
 }
 
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 750px) {
 	table{
 	font-size:.65em;
 	}	
 }
 
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 750px) {
 	td {
     max-width: 0;
     overflow: hidden;
