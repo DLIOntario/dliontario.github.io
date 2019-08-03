@@ -502,7 +502,7 @@ th{
 
 @media screen and (max-width: 750px) {
 	td {
-    max-width: 0;
+    
     overflow: hidden;
     text-overflow: ellipsis;
     
