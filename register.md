@@ -4,4 +4,4 @@ title: Register
 permalink: /register/
 ---
 
-test text
+Registration coming soon!

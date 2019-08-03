@@ -4,4 +4,4 @@ title: Local Arrangements
 permalink: /local/
 ---
 
-test text
+Information about local arrangements coming soon!
