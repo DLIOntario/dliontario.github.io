@@ -500,10 +500,13 @@ th{
 	}	
 }
 
-@media screen and (max-width: 60px) {
-	table{
-	font-size:.75em;
-	}	
+@media screen and (max-width: 600px) {
+	td {
+    max-width: 0;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+	}
 }
 
 .highlight {
