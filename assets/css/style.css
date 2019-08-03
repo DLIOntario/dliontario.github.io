@@ -478,8 +478,12 @@ th{
   text-align: center;
 }
 
+.loc {
+  width: 15%;
+}
+
 .session {
-  width: 55%;
+  width: 40%;
 }
 
 .name {
@@ -1160,7 +1164,7 @@ dd {
 
 @media only screen and (min-width:1200px) {
 	body {
-	font-size:137.5%
+	/*font-size:137.5%*/
 	}
 
 .container {
