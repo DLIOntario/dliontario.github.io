@@ -462,7 +462,12 @@ table{
 	table-layout:fixed;
 	border-collapse: collapse;
 	font-size:.85em;
-	-webkit-text-size-adjust:75%
+}
+
+@media screen and (max-device-width: 640px) {
+	table{
+	font-size:75%;
+	}	
 }
 
 td,th{
