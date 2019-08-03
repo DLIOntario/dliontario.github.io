@@ -464,12 +464,6 @@ table{
 	font-size:.85em;
 }
 
-@media screen and (max-device-width: 750px) {
-	table{
-	font-size:75em;
-	}	
-}
-
 td,th{
 	padding:5px;
 	border-bottom: 1px solid #ddd;
@@ -498,7 +492,18 @@ th{
 
 .one tbody tr:nth-of-type(odd){
 	background:#F0F0F0;
+}
 
+@media screen and (max-width: 600px) {
+	table{
+	font-size:.65em;
+	}	
+}
+
+@media screen and (max-width: 60px) {
+	table{
+	font-size:.75em;
+	}	
 }
 
 .highlight {
