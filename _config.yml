@@ -35,3 +35,5 @@ exclude:
   - LICENSE.txt
   - massively_jekyll_theme.gemspec
   - _site/
+  - _config.yml
+  - _archive/

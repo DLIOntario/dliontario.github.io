@@ -90,7 +90,9 @@ permalink: /schedule/
   </tbody>
 </table>
 
+<!--
 <a name="day-two">Day 2</a> | [back to top](#day-one)
 <p></p>
 <a name="day-three">Day 3</a> | [back to top](#day-one)
 <p></p>
+-->
