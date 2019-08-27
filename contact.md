@@ -7,7 +7,7 @@ permalink: /contact/
 **DLI Travel Arrangements**  
 <statcan.mad-traveldli-dam-voyageidd.statcan@canada.ca>
 
-**Vivek Jadon - Local Arrangements**  
+**Vivek Jadon - Local Arrangements and Regional Training Coordinator**  
 *McMaster University*  
 Data Specialist   
 Telephone: 905-525-9140 x23848    
