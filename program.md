@@ -15,7 +15,7 @@ Day 1 (Tuesday)
 
 **0900-0915** -<a name="1-2"> OJN 111 - [Welcome and Housekeeping](/schedule/#1-2)</a>
 
-**0915-1030** - <a name="1-3">LIB389 - <a name="1-3">[Stat Can Workshop](/schedule/#1-3)</a>
+**0915-1030** - <a name="1-3">OJN 111 - <a name="1-3">[Stat Can Workshop](/schedule/#1-3)</a>
 	
 Description coming soon!
 
@@ -81,7 +81,7 @@ Description coming soon!
 
 **1030-1045** - <a name="1-4">[Break](/schedule/#1-4)</a>
 
-**1045-1200** - <a name="1-5">- Presentation by McMaster RDC Analyst(/schedule/#1-5)</a>
+**1045-1200** - <a name="1-5">Presentation by McMaster RDC Analyst(/schedule/#1-5)</a>
 
 Description coming soon!
 
