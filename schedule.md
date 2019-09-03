@@ -65,7 +65,7 @@ permalink: /schedule/
     </tr>
     <tr>
     <td>1500-1630</td>
-    <td>OJN 111?</td>
+    <td>OJN 111</td>
     <td><a name="1-9" href="/program/#1-9">Stat Can Workshop</a></td>
     <td></td>
     </tr>
