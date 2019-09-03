@@ -45,11 +45,11 @@ Day 2 (Wednesday)
 
 **0900-0915** -<a name="1-2"> OJN 111 - [Welcome and Housekeeping](/schedule/#1-2)</a>
 
-**0915-1000** - <a name="1-3">LIB389 - <a name="1-3">[DLI Update](/schedule/#1-3)</a>
+**0915-1000** - <a name="1-3">OJN 111 - <a name="1-3">[DLI Update](/schedule/#1-3)</a>
 	
 - Geneviève Jourdain (Statistics ada; Chief, Microdata Access Division)
 
-**1000-1030** - <a name="1-3">LIB389 - <a name="1-3">[Presentation](/schedule/#1-3)</a>
+**1000-1030** - <a name="1-3">OJN 111 - <a name="1-3">[Presentation](/schedule/#1-3)</a>
 
 - Jane Fry
 
@@ -75,7 +75,7 @@ Day 3 (Thursday)
 
 **0830-0900** - <a name="1-1">OJN 111 - [Arrival and Refreshments](/schedule/#1-1)</a>
 
-**0900-1030** - <a name="1-3">LIB389 - <a name="1-3">[Subject Matter](/schedule/#1-3)</a>
+**0900-1030** - <a name="1-3">OJN 111 - <a name="1-3">[Subject Matter](/schedule/#1-3)</a>
 	
 Description coming soon!
 
