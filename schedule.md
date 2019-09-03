@@ -19,7 +19,7 @@ permalink: /schedule/
 	<td>0830-0900</td>
 	<td>OJN 111</td>
 	<td><a name="1-1" href="/program/#1-1">Arrival and Refreshments: DLI Chat with new those new to DLI or the DLI Contact role</a></td>
-	<td>Geneviève Jourdain, Stats Can</td>
+	<td>Geneviève Jourdain, Stat Can</td>
     </tr>
     <tr>
     <td>0900-0910</td>
