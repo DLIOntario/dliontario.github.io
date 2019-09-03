@@ -98,26 +98,32 @@ Description coming soon!
 
 <p>
 
-**0830-0900** - <a name="1-1">OJN 111 - [Arrival and Refreshments](/schedule/#1-1)</a>
+**0830-0900** - <a name="1-1"><b>OJN 111 - Arrival and Refreshments</b></a>
+<p>
 
-**0900-1030** - <a name="1-3">OJN 111 - <a name="1-3">[Subject Matter](/schedule/#1-3)</a>
+**0900-1030** - <a name="1-3"><b>OJN 111 - Subject Matter</b></a><br>
 	
 Description coming soon!
+<p>
 
-**1030-1045** - <a name="1-4">[Break](/schedule/#1-4)</a>
+**1030-1045** - <a name="1-4"><b>Break</b></a>
+<p>
 
-**1045-1200** - <a name="1-5">Presentation by McMaster RDC Analyst(/schedule/#1-5)</a>
+**1045-1200** - <a name="1-5"><b>Presentation by McMaster RDC Analyst</b></a><br>
 
 Description coming soon!
+<p>
 
-**1200-1330** - <a name="1-6">[Lunch (on your own)](/schedule/#1-6)</a>
+**1200-1330** - <a name="1-6"><b>Lunch (on your own)</b></a><br>
 
 - some details about places to go for lunch
+<p>
 
-**1330-1500** - <a name="1-7a">OJN 111 - [Roundtable Discussion](/schedule/#1-7a)</a>
+**1330-1500** - <a name="1-7a"><b>OJN 111 - Roundtable Discussion</b></a><br>
 
 - Topics coming soon!
+<p>
 
-**1500-1530** - <a name="1-8">[Wrap-up](/schedule/#1-8)</a>
+**1500-1530** - <a name="1-8"><b>Wrap-up</b></a>
 
 
