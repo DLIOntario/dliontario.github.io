@@ -74,8 +74,8 @@ Description coming soon!
 
 **1500-1630** - <a name="1-9">OJN 111 -  [Workshop](/schedule/#1-9)</a>
 
-<p><a name="day-three">Day 3 (Thursday)</a> | [back to top](#day-one)
-</p>
+<p><a name="day-three">Day 3 (Thursday)</a> | <a href="#day-one">back to top</a></p>
+<p>
 
 <p>
 
