@@ -10,37 +10,42 @@ permalink: /program/
 <p>
 Day 1 (Tuesday)
 
-**0830-0900** - <a name="1-1">OJN 111 - <b>Arrival and Refreshments</b> </a><br>
+**0830-0900** - <a name="1-1"><b>OJN 111 - Arrival and Refreshments</b> </a><br>
 
 - Geneviève Jourdain (Statistics Canada; Chief, Microdata Access Division) will be available for an informal chat with people new to DLI and DLI Training.
 <p>
 	
-**0900-0915** - <a name="1-2">OJN 111 - Welcome and Housekeeping </a>
+**0900-0915** - <a name="1-2"><b>OJN 111 - Welcome and Housekeeping</b> </a>
 <p>
 	
-**0915-1030** - <a name="1-3">OJN 111 - <a name="1-3">Stat Can Workshop </a><br>
+**0915-1030** - <a name="1-3"><b>OJN 111 - <a name="1-3">Stat Can Workshop</b> </a><br>
 	
 Description coming soon!
 <p>
 	
-**1030-1045** - <a name="1-4">Break </a>
+**1030-1045** - <a name="1-4"><b>Break</b> </a>
 <p>
 	
-**1045-1200** - <a name="1-5"> - Stat Can Workshop</a><br>
+**1045-1200** - <a name="1-5"><b> - Stat Can Workshop</b></a><br>
 
 Description coming soon!
 <p>
-**1200-1330** - <a name="1-6">Lunch (on your own) </a><br>
+	
+**1200-1330** - <a name="1-6"><b>Lunch (on your own)</b> </a><br>
 
 - some details about places to go for lunch
 <p>
-**1330-1445** - <a name="1-7a">OJN 111 - [Stat Can Workshop (Contd...)](/schedule/#1-7a)</a>
+	
+**1330-1445** - <a name="1-7a"><b>OJN 111 - Stat Can Workshop (Contd...)</b></a>
+<p>
+	
+**1500-1515** - <a name="1-8"><b>Break</b></a>
+<p>
+	
+**1515-1630** - <a name="1-9"><b>OJN 111 - Stat Can Workshop (Contd...)</b></a>
+<p>
 
-**1500-1515** - <a name="1-8">[Break](/schedule/#1-8)</a>
-
-**1515-1630** - <a name="1-9">OJN 111 -  [Stat Can Workshop (Contd...)](/schedule/#1-9)</a>
-
-**1800** - <a name="1-11"> [Dinner](/schedule/#1-11)</a>
+**1800** - <a name="1-11"><b> Dinner</b></a><br>
 
 - Location TBA
 
