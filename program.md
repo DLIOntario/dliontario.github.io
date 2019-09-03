@@ -10,18 +10,22 @@ permalink: /program/
 <p>
 Day 1 (Tuesday)
 
-**0830-0900** - <a name="1-1">OJN 111 - Arrival and Refreshments </a><br>
+**0830-0900** - <a name="1-1">OJN 111 - <b>Arrival and Refreshments</b> </a><br>
 
 - Geneviève Jourdain (Statistics Canada; Chief, Microdata Access Division) will be available for an informal chat with people new to DLI and DLI Training.
 <p>
+	
 **0900-0915** - <a name="1-2">OJN 111 - Welcome and Housekeeping </a>
 <p>
+	
 **0915-1030** - <a name="1-3">OJN 111 - <a name="1-3">Stat Can Workshop </a><br>
 	
 Description coming soon!
 <p>
+	
 **1030-1045** - <a name="1-4">Break </a>
 <p>
+	
 **1045-1200** - <a name="1-5"> - Stat Can Workshop</a><br>
 
 Description coming soon!
