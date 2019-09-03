@@ -21,7 +21,7 @@ Description coming soon!
 
 **1030-1045** - <a name="1-4">[Break](/schedule/#1-4)</a>
 
-**1045-1200** - <a name="1-5">? - Stat Can Workshop(/schedule/#1-5)</a>
+**1045-1200** - <a name="1-5"> - Stat Can Workshop(/schedule/#1-5)</a>
 
 Description coming soon!
 
@@ -33,7 +33,7 @@ Description coming soon!
 
 **1500-1515** - <a name="1-8">[Break](/schedule/#1-8)</a>
 
-**1515-1630** - <a name="1-9">?OJN 111 -  [Stat Can Workshop (Contd...)](/schedule/#1-9)</a>
+**1515-1630** - <a name="1-9">OJN 111 -  [Stat Can Workshop (Contd...)](/schedule/#1-9)</a>
 
 **1800** - <a name="1-11"> [Dinner](/schedule/#1-11)</a>
 
@@ -55,7 +55,7 @@ Day 2 (Wednesday)
 
 **1030-1045** - <a name="1-4">[Break](/schedule/#1-4)</a>
 
-**1045-1200** - <a name="1-5">? - Presentation on Picasso(/schedule/#1-5)</a>
+**1045-1200** - <a name="1-5">- Presentation on Picasso(/schedule/#1-5)</a>
 
 - Description coming soon!
 
@@ -81,7 +81,7 @@ Description coming soon!
 
 **1030-1045** - <a name="1-4">[Break](/schedule/#1-4)</a>
 
-**1045-1200** - <a name="1-5">? - Presentation by McMaster RDC Analyst(/schedule/#1-5)</a>
+**1045-1200** - <a name="1-5">- Presentation by McMaster RDC Analyst(/schedule/#1-5)</a>
 
 Description coming soon!
 
