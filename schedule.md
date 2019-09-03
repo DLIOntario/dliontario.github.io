@@ -17,33 +17,33 @@ permalink: /schedule/
   <tbody>
     <tr>
 	<td>0830-0900</td>
-	<td>LIB 389</td>
+	<td>OJN 111</td>
 	<td><a name="1-1" href="/program/#1-1">Arrival and Refreshments: DLI Chat with new those new to DLI or the DLI Contact role</a></td>
 	<td>Geneviève Jourdain, Stats Can</td>
     </tr>
     <tr>
-    <td>0900-0930</td>
-    <td>LIB 389</td>
+    <td>0900-0910</td>
+    <td>OJN 111</td>
     <td><a name="1-2" href="/program/#1-2">Welcome and Housekeeping</a></td>
     <td></td>
     </tr>
     <tr>
-    <td>0930-1015</td>
+    <td>0910-1030</td>
     <td>LIB 389</td>
-    <td><a name="1-3" href="/program/#1-3">DLI Update</a></td>
-    <td>Geneviève Jourdain</td>
+    <td><a name="1-3" href="/program/#1-3">Stat Can Workshop</a></td>
+    <td>TBA</td>
     </tr>
     <tr>
-    <td>1015-1035</td>
+    <td>1030-1045</td>
     <td></td>
     <td><a name="1-4" href="/program/#1-4">Break</a></td>
     <td></td>
     </tr>
     <tr>
     <td>1030-1200</td>
-    <td>?</td>
-    <td><a name="1-5" href="/program/#1-5">CHASS Canadian Census Analyser and CANSIM@CHASS</a></td>
-    <td>Johan Libster, Developer: CHASS Data Service</td>
+    <td>OJN 111</td>
+    <td><a name="1-5" href="/program/#1-5">Stat Can Workshop </a></td>
+    <td>TBA</td>
     </tr>
     <tr>
     <td>1200-1330</td>
@@ -52,39 +52,27 @@ permalink: /schedule/
     <td></td>
     </tr>
     <tr>
-    <td>1330-1500</td>
-    <td>Learning Commons Lab</td>
-    <td><a name="1-7a" href="/program/#1-7a">Workshop A: Introduction to Open Refine</a></td>
-    <td>Kelly Schultz, University of Toronto</td>
+    <td>1330-1445</td>
+    <td>OJN 111</td>
+    <td><a name="1-7a" href="/program/#1-7a">Stat Can Workshop</a></td>
+    <td>TBA</td>
     </tr>
     <tr>
-    <td>1330-1500</td>
-    <td>LIB 393A</td>
-    <td><a name="1-7b" href="/program/#1-7b">Workshop B: Mapping Census data from CHASS</a></td>
-    <td>Tomasz Mrozewski, Laurentian University; Francine Berish, Queen’s University</td>
-    </tr>
-    <tr>
-    <td>1500-1515</td>
-    <td>?</td>
+    <td>1445-1500</td>
+    <td>OJN 111</td>
     <td><a name="1-8" href="/program/#1-8">Break</a></td>
     <td></td>
     </tr>
     <tr>
-    <td>1515-1600</td>
+    <td>1500-1630</td>
     <td>?</td>
-    <td><a name="1-9" href="/program/#1-9">Breakout/Table discussion</a></td>
-    <td></td>
-    </tr>
-    <tr>
-    <td>1600-1645</td>
-    <td>?</td>
-    <td><a name="1-10" href="/program/#1-10">Reporting back/Q&A with DLI</a></td>
+    <td><a name="1-9" href="/program/#1-9">Stat Can Workshop</a></td>
     <td></td>
     </tr>
     <tr>
     <td>1800</td>
-    <td>382 Yonge Street</td>
-    <td><a name="1-11" href="/program/#1-11">Dinner @ Reds on Gerrard</a></td>
+    <td>TBA</td>
+    <td><a name="1-11" href="/program/#1-11">Dinner</a></td>
     <td></td>
     </tr>
   </tbody>
