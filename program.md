@@ -64,7 +64,7 @@ Description coming soon!
 - Geneviève Jourdain (Statistics ada; Chief, Microdata Access Division)
 <p>
 
-**1000-1030** - <a name="1-3"<b>OJN 111 - Presentation</b></a><br>
+**1000-1030** - <a name="1-3"><b>OJN 111 - Presentation</b></a><br>
 
 - Jane Fry
 <p>
