@@ -53,7 +53,7 @@ Description coming soon!
 
 <p>
 
-**0830-0900** - <a name="1-1"><b>OJN 111 - Arrival and Refreshments](/schedule/#1-1)</b></a>
+**0830-0900** - <a name="1-1"><b>OJN 111 - Arrival and Refreshments</b></a>
 <p>
 
 **0900-0915** -<a name="1-2"><b>OJN 111 - Welcome and Housekeeping</b></a>
