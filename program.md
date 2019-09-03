@@ -69,7 +69,7 @@ Day 2 (Wednesday)
 
 **1445-1500** - <a name="1-8">[Break](/schedule/#1-8)</a>
 
-**1500-1630** - <a name="1-9">?OJN 111 -  [Workshop](/schedule/#1-9)</a>
+**1500-1630** - <a name="1-9">OJN 111 -  [Workshop](/schedule/#1-9)</a>
 
 Day 3 (Thursday)
 
