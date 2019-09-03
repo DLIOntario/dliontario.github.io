@@ -72,7 +72,7 @@ permalink: /schedule/
     <tr>
     <td>1800</td>
     <td>TBA</td>
-    <td><a name="1-11" href="/program/#1-11">Dinner</a></td>
+    <td><a name="1-10" href="/program/#1-11">Dinner</a></td>
     <td></td>
     </tr>
   </tbody>
