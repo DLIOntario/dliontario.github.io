@@ -4,7 +4,7 @@ title: Schedule
 permalink: /schedule/
 ---
 
-<a name="day-one">Day 1</a> | [Day 2](#day-two) | [Day 3](#day-three)
+<a name="day-one">Day 1 (Tuesday)</a> | [Day 2 (Wednesday)](#day-two) | [Day 3 (Thursday)](#day-three)
 <table class="one">
   <thead>
     <tr>
