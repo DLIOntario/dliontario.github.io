@@ -4,63 +4,93 @@ title: Program
 permalink: /program/
 ---
 
-<a name="day-one">Day 1</a> | [Day 2](#day-two) | [Day 3](#day-three)
+<a name="day-one">Day 1 (Tuesday)</a> | [Day 2 (Wednesday)](#day-two) | [Day 3 (Thursday)](#day-three)
 <p></p>
 
+Day 1 (Tuesday)
 
-**0830-0900** - <a name="1-1">LIB389 - [Arrival and Refreshments](/schedule/#1-1)</a>
+**0830-0900** - <a name="1-1">OJN 111 - [Arrival and Refreshments](/schedule/#1-1)</a>
 
 - Geneviève Jourdain (Statistics Canada; Chief, Microdata Access Division) will be available for an informal chat with people new to DLI and DLI Training.
 
-**0900-0930** -<a name="1-2"> LIB389 - [Welcome and Housekeeping](/schedule/#1-2)</a>
+**0900-0915** -<a name="1-2"> OJN 111 - [Welcome and Housekeeping](/schedule/#1-2)</a>
 
-**0930-1015** - <a name="1-3">LIB389 - <a name="1-3">[DLI Update](/schedule/#1-3)</a>
+**0915-1030** - <a name="1-3">LIB389 - <a name="1-3">[Stat Can Workshop](/schedule/#1-3)</a>
+	
+Description coming soon!
 
-**1015-1035** - <a name="1-4">[Break](/schedule/#1-4)</a>
+**1030-1045** - <a name="1-4">[Break](/schedule/#1-4)</a>
 
-**1030-1200** - <a name="1-5">? - [CHASS Canadian Census Analyser and CANSIM@CHASS](/schedule/#1-5)</a>
+**1045-1200** - <a name="1-5">? - Stat Can Workshop(/schedule/#1-5)</a>
 
-- Canadian Census Analyser will cover basic region unit terminology for search types, navigation layout/finding topics, applying census variables and filters your datasets, export options for datasets, use of PUMF (public use microdata files) query system for census data queries, hierarchical vs individual PUMF data, and SDA query/report interface.
-- CANSIM@CHASS will cover finding tables and series, basic text searches, suggested searches, search by title, metadata, table/series ids/ranges, browsing surveys, using table data, by dimensions and series, using variables and carts, using cart filters and output formats, using the OLAP interface, changes by Statistics Canada data formats from June, 2018 (how it affects queries).
-	- Johan Libster - Developer, CHASS Data Service (Information & Instructional Technology (IIT) Faculty of Arts and Science, University of Toronto)
+Description coming soon!
 
 **1200-1330** - <a name="1-6">[Lunch (on your own)](/schedule/#1-6)</a>
 
 - some details about places to go for lunch
 
-**1330-1500** - <a name="1-7a">Learning Commons Lab, Main Floor, Library - [Workshop A: Introduction to Open Refine](/schedule/#1-7a)</a>
-
-- This workshop will introduce OpenRefine, a powerful open source tool for exploring, cleaning and manipulating 'messy' data. Through hands-on activities, using a variety of datasets, participants will learn how to:
-	- Explore and identify patterns in data
-	- Normalize data using facets and clusters
-	- Manipulate and generate new textual and numeric data
-	- Transform and reshape datasets
-	- Use the General Regular Expression Language (GREL) to undertake manipulations, such as concatenating strings
-- Kelly Schultz, University of Toronto
-
-**1330-1500** - <a name="1-7b">LIB393A - [Workshop B: Mapping Census data from CHASS](/schedule/#1-7b)</a>
-
-- This 90 minute session will cover data discovery and extraction via the CHASS Census Analyzer and basic GIS visualization. We will highlight the added value features of using CHASS compared to Statistics Canada Census Profiles. We will provide an overview of the steps involved in visualizing Census data in ArcGIS, including data elements and major processes. This session will also feature a critical discussion on visualizing Census data in GIS software, focusing on the technical expertise required to produce usable visualizations as well as the responsibility (and credit) for producing visualizations.
-	- Tomasz Mrozewski, Laurentian University
-	- Francine Berish, Queen’s University
+**1330-1445** - <a name="1-7a">OJN 111 - [Stat Can Workshop (Contd...)](/schedule/#1-7a)</a>
 
 **1500-1515** - <a name="1-8">[Break](/schedule/#1-8)</a>
 
-**1515-1600** - <a name="1-9">? - [Breakout/Table discussion](/schedule/#1-9)</a>
+**1515-1630** - <a name="1-9">?OJN 111 -  [Stat Can Workshop (Contd...)](/schedule/#1-9)</a>
 
-- Over the course of the morning on Tuesday, we will be soliciting breakout topics for group discussions about DLI related issues, challenges, and opportunities. In the afternoon attendees will select a table/topic that they would like to focus on and then each table will report back to the room with an opportunity to give and receive feedback directly to our DLI Unit representative at Statistics Canada, Geneviève Jourdain.
+**1800** - <a name="1-11"> [Dinner](/schedule/#1-11)</a>
 
-**1600-1645** - <a name="1-10">? - [Reporting back/Q&A with DLI](/schedule/#1-10)</a>
+- Location TBA
 
-**1800** - <a name="1-11">Reds on Gerrard - [Dinner](/schedule/#1-11)</a>
+**0830-0900** - <a name="1-1">OJN 111 - [Arrival and Refreshments](/schedule/#1-1)</a>
 
-- [Reds on Gerrard](http://redsrestaurants.com) is at [382 Yonge Street, Toronto](https://www.google.com/maps/place/REDS+Midtown+Tavern/@43.6591672,-79.3845898,17z/data=!3m1!4b1!4m5!3m4!1s0x882b34b56f688195:0x7748f8e1643e7f3e!8m2!3d43.6591672!4d-79.3824011)
-	- 1800 — drinks
-	- 1830 — dinner
-	- Note: there will be an automatic 18% gratuity on the bills because of the size of the group, but bills will be separate.
+**0900-0915** -<a name="1-2"> OJN 111 - [Welcome and Housekeeping](/schedule/#1-2)</a>
 
+**0915-1000** - <a name="1-3">LIB389 - <a name="1-3">[DLI Update](/schedule/#1-3)</a>
+	
+- Geneviève Jourdain (Statistics ada; Chief, Microdata Access Division)
 
+**1000-1030** - <a name="1-3">LIB389 - <a name="1-3">[Presentation](/schedule/#1-3)</a>
 
+- Jane Fry
 
+**1030-1045** - <a name="1-4">[Break](/schedule/#1-4)</a>
+
+**1045-1200** - <a name="1-5">? - Presentation on Picasso(/schedule/#1-5)</a>
+
+- Description coming soon!
+
+**1200-1330** - <a name="1-6">[Lunch (on your own)](/schedule/#1-6)</a>
+
+- some details about places to go for lunch
+
+**1330-1445** - <a name="1-7a">OJN 111 - [Workshop](/schedule/#1-7a)</a>
+
+- Description coming soon!
+
+**1445-1500** - <a name="1-8">[Break](/schedule/#1-8)</a>
+
+**1500-1630** - <a name="1-9">?OJN 111 -  [Workshop](/schedule/#1-9)</a>
+
+Day 3 (Thursday)
+
+**0830-0900** - <a name="1-1">OJN 111 - [Arrival and Refreshments](/schedule/#1-1)</a>
+
+**0900-1030** - <a name="1-3">LIB389 - <a name="1-3">[Subject Matter](/schedule/#1-3)</a>
+	
+Description coming soon!
+
+**1030-1045** - <a name="1-4">[Break](/schedule/#1-4)</a>
+
+**1045-1200** - <a name="1-5">? - Presentation by McMaster RDC Analyst(/schedule/#1-5)</a>
+
+Description coming soon!
+
+**1200-1330** - <a name="1-6">[Lunch (on your own)](/schedule/#1-6)</a>
+
+- some details about places to go for lunch
+
+**1330-1500** - <a name="1-7a">OJN 111 - [Roundtable Discussion](/schedule/#1-7a)</a>
+
+- Topics coming soon!
+
+**1500-1530** - <a name="1-8">[Wrap-up](/schedule/#1-8)</a>
 
 
