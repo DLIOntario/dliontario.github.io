@@ -4,7 +4,7 @@ title: Program
 permalink: /program/
 ---
 
-<p><a name="day-one">Day 1 (Tuesday)</a> | <a href="#day-two">[Day 2 (Wednesday)](#day-two)</a> | <a href="#day-three">[Day 3 (Thursday)](#day-three)</a>
+<p><a name="day-one">Day 1 (Tuesday)</a> | <a href="#day-two">[Day 2 (Wednesday)]</a> | <a href="#day-three">[Day 3 (Thursday)]</a>
 </p>
 
 <p>
