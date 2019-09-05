@@ -22,16 +22,16 @@ permalink: /program/
 </tr>
 <p>
 <tr>
-	**0900-0915 - <a name="1-2">_OJN 111 - Welcome and Housekeeping_**</a><br>
+	<b><a name="1-2">0900-0915: OJN 111 - Welcome and Housekeeping</a></b><br>
 
 </tr>	
-
+<p>
 <tr>
-**0915-1030** - <a name="1-3">**OJN 111** - <a name="1-3">**Stat Can Workshop**</a><br>
+	<b><a name="1-3">0915-1030: OJN 111 - Stat Can Workshop</a></b><br>
 	
 Description coming soon!
 </tr>	
-
+<p>
 <tr>
 **1030-1045** - <a name="1-4">**Break**</a><br>
 </tr>
