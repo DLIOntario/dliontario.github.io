@@ -10,7 +10,7 @@ permalink: /program/
 <p>
 <b>Day 1 (Tuesday)</b><p>
 	
-<table class="one">
+<table>
  <thead>
     <tr>
     </tr>
