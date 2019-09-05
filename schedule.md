@@ -154,7 +154,7 @@ permalink: /schedule/
    </tbody>
 </table>
 
-<p><a name="day-three">Day 3 (Thursday)</a> |  <a href="#day-one">[back to top](#day-one)</a>
+<p><a name="day-three">Day 3 (Thursday)</a> |  <a href="#day-one">[back to top]</a>
 <p>
 
 <table class="one">
