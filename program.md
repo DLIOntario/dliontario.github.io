@@ -153,7 +153,7 @@ Description coming soon!
 
 <p>
 <tr>
-<b><a name="day-three">Day 3 (Thursday)</a> | <a href="#day-one">back to top</a></b>
+	<p><b><a name="day-three">Day 3 (Thursday)</a> | <a href="#day-one">back to top</a></b></p>
 	
 </tr>
 
