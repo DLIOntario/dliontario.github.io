@@ -160,7 +160,6 @@ Description coming soon!
 <p>
 
 <tr>
-<p>
 
 <b><a name="3-1">0830-0900: OJN 111 - Arrival and Refreshments</a></b><br>
 
