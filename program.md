@@ -129,6 +129,7 @@ Description coming soon!
 </tr>
 <p>
 
+<tr>
 <b><a name="2-9">1445-1500: Break</a></b><br>
 
 </tr>
@@ -173,6 +174,8 @@ Description coming soon!
 
 </tr>
 <p>
+
+<tr>
 
 <b><a name="3-3">1030-1045: Break</a></b><br>
 
