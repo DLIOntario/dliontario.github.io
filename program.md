@@ -37,7 +37,7 @@ A quick refresher course for those who have had statistical training in the past
 </tr>
 <p>
 <tr>
-	<b><a name="1-5">1045-1200: Stat Can Workshop</a></b><br>
+	<b><a name="1-5">1045-1200: OJN 111 - Stat Can Workshop</a></b><br>
 
 A quick refresher course for those who have had statistical training in the past or a fast-paced introduction to basic statistics for beginners. Statistical measures such as percentages, averages, frequency and standard error are used widely. But how are they calculated, and exactly what do they tell us? This one day workshop will help participants develop an appreciation of the potential of statistics and a critical eye of when and how they should or shouldn't be used.
 </tr>
@@ -51,7 +51,7 @@ A quick refresher course for those who have had statistical training in the past
 <tr>
 	<b><a name="1-7">1330-1445: OJN 111 - Stat Can Workshop (Contd...)</a></b><br>
 	
-	A quick refresher course for those who have had statistical training in the past or a fast-paced introduction to basic statistics for beginners. Statistical measures such as percentages, averages, frequency and standard error are used widely. But how are they calculated, and exactly what do they tell us? This one day workshop will help participants develop an appreciation of the potential of statistics and a critical eye of when and how they should or shouldn't be used.
+A quick refresher course for those who have had statistical training in the past or a fast-paced introduction to basic statistics for beginners. Statistical measures such as percentages, averages, frequency and standard error are used widely. But how are they calculated, and exactly what do they tell us? This one day workshop will help participants develop an appreciation of the potential of statistics and a critical eye of when and how they should or shouldn't be used.
 </tr>
 <p>
 <tr>
