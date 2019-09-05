@@ -11,6 +11,10 @@ permalink: /program/
 <b>Day 1 (Tuesday)</b><p>
 	
 <table class="one">
+ <thead>
+    <tr>
+    </tr>
+ </thead>
 <tbody>
    <tr>
 	   <b>0830-0900 - <a name="1-1">OJN 111 - Arrival and Refreshments</a></b><br>
