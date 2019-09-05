@@ -60,7 +60,7 @@ Description coming soon!
 <tr>
 	<b><a name="1-9">1515-1630: OJN 111 - Stat Can Workshop (Contd...)</a></b><br>
 </tr>
-
+<p><p>
 <tr>
 <p><b><a name="day-two">Day 2 (Wednesday)</a> | <a href="#day-one">back to top</a></b></p>
 
@@ -114,7 +114,7 @@ Description coming soon!
 <tr>
 <b><a name="2-7">1200-1330: Lunch (on your own)</a></b><br>
 
-- some details about places to go for lunch
+- Details coming soon!
 
 </tr>
 
