@@ -13,13 +13,13 @@ permalink: /program/
 <table class="one">
 <tbody>
    <tr>
-   <b>0830-0900 - <a name="1-1">OJN 111 - Arrival and Refreshments</a></b><br>
+   <b>0830-0900 - <a name="1-1">OJN 111 - Arrival and Refreshments</a><br>
 
 - Geneviève Jourdain (Statistics Canada; Chief, Microdata Access Division) will be available for an informal chat with people new to DLI and DLI Training.
 <p></tr>
 
 <tr>
-<b>0900-0915 - <a name="1-2">OJN 111 - Welcome and Housekeeping</a></b>
+<b>0900-0915 - <a name="1-2">OJN 111 - Welcome and Housekeeping</a>
 <p>
 </tr>	
 
