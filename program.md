@@ -210,7 +210,7 @@ Description coming soon!
 
 </tr>
 
-</p>
+<p><p>
 </tbody>
 </table>
 
