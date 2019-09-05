@@ -31,7 +31,7 @@ Description coming soon!
 Description coming soon!
 <p>
 	
-<b>1200-1330 - <a name="1-6">Lunch (on your own)</b></a><br>
+<b>1200-1330 - <a name="1-6">Lunch (on your own)</a></b><br>
 
 - some details about places to go for lunch
 <p>
@@ -45,7 +45,7 @@ Description coming soon!
 <b>1515-1630 - <a name="1-9">OJN 111 - Stat Can Workshop (Contd...)</b></a>
 <p>
 
-<p><b><a name="day-two">Day 2 (Wednesday)</a> | <a href="#day-one">back to top</b></a></p>
+<p><b><a name="day-two">Day 2 (Wednesday)</a> | <a href="#day-one">back to top</a></b></p>
 
 <p>
 
@@ -86,12 +86,12 @@ Description coming soon!
 <b>1445-1500 - <a name="2-9"><b>Break</b></a>
 <p>
 
-<b>1500-1630 - <a name="2-10"><b>OJN 111 -  Workshops</b></a><br>
+<b>1500-1630 - <a name="2-10"><b>OJN 111 -  Workshops</a></b><br>
 
 - Description coming soon!
 <p>
 
-<b>1800 - <a name="2-11"> Dinner</b></a><br>
+<b>1800 - <a name="2-11"> Dinner</a></b><br>
 
 - Location TBA
 <p>
@@ -101,32 +101,32 @@ Description coming soon!
 
 <p>
 
-<b>0830-0900 - <a name="3-1"><b>OJN 111 - Arrival and Refreshments</b></a>
+<b>0830-0900 - <a name="3-1"><b>OJN 111 - Arrival and Refreshments</a></b>
 <p>
 
-<b>0900-1030 - <a name="3-2"><b>OJN 111 - Subject Matter</b></a><br>
+<b>0900-1030 - <a name="3-2"><b>OJN 111 - Subject Matter</a></b><br>
 	
 Description coming soon!
 <p>
 
-<b>1030-1045 - <a name="3-3"><b>Break</b></a>
+<b>1030-1045 - <a name="3-3"><b>Break</a></b>
 <p>
 
-<b>1045-1200 - <a name="3-4"><b>Presentation by McMaster RDC Analyst</b></a><br>
+<b>1045-1200 - <a name="3-4"><b>Presentation by McMaster RDC Analyst</a></b><br>
 
 Description coming soon!
 <p>
 
-<b>1200-1330 - <a name="3-5"><b>Lunch (on your own)</b></a><br>
+<b>1200-1330 - <a name="3-5"><b>Lunch (on your own)</a></b><br>
 
 - some details about places to go for lunch
 <p>
 
-<b>1330-1500 - <a name="3-6"><b>OJN 111 - Roundtable Discussion</b></a><br>
+<b>1330-1500 - <a name="3-6"><b>OJN 111 - Roundtable Discussion</a></b><br>
 
 - Topics coming soon!
 <p>
 
-<b>1500-1530 - <a name="3-7"><b>Wrap-up</b></a>
+<b>1500-1530 - <a name="3-7"><b>Wrap-up</a></b>
 
 
