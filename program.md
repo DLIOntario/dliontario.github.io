@@ -209,7 +209,8 @@ Description coming soon!
 <b><a name="3-7">1500-1530: Wrap-up</a></b><br>
 
 </tr>
-	
+
+</p>
 </tbody>
 </table>
 
