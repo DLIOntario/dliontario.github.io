@@ -31,7 +31,7 @@ Description coming soon!
 Description coming soon!
 <p>
 	
-<b>1200-1330 - <a name="1-6">Lunch (on your own)</b> </a><br>
+<b>1200-1330 - <a name="1-6">Lunch (on your own)</b></a><br>
 
 - some details about places to go for lunch
 <p>
