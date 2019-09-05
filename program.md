@@ -16,10 +16,8 @@ permalink: /program/
     </tr>
  </thead>
 <tbody>
-   <tr>
-	   
-		   __0830-0900: OJN 111 - Arrival and Refreshments__
-
+   <tr>   
+	 __0830-0900: OJN 111 - Arrival and Refreshments__
 - Geneviève Jourdain (Statistics Canada; Chief, Microdata Access Division) will be available for an informal chat with people new to DLI and DLI Training.
 </tr>
 
