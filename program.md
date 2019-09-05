@@ -103,6 +103,7 @@ Description coming soon!
 
 <p>
 
+<tr>
 <b><a name="2-6">1045-1200: OJN 111 - Presentation on Picasso</a></b><br>
 
 - Description coming soon!
