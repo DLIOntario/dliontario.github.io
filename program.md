@@ -23,7 +23,7 @@ permalink: /program/
 </tr>
 
 <tr>
-	<b>0900-0915 - <a name="1-2">OJN 111 - Welcome and Housekeeping</a></b>
+	<b>0900-0915 - <a name="1-2">OJN 111 - Welcome and Housekeeping</a></b><br>
 
 </tr>	
 
@@ -34,7 +34,7 @@ Description coming soon!
 </tr>	
 
 <tr>
-<b>1030-1045 - <a name="1-4">Break</a></b>
+<b>1030-1045 - <a name="1-4">Break</a></b><br>
 </tr>
 
 <tr>
@@ -50,15 +50,15 @@ Description coming soon!
 </tr>
 
 <tr>
-<b>1330-1445 - <a name="1-7a">OJN 111 - Stat Can Workshop (Contd...)</a></b>
+<b>1330-1445 - <a name="1-7a">OJN 111 - Stat Can Workshop (Contd...)</a></b><br>
 </tr>
 
 <tr>
-<b>1500-1515 - <a name="1-8">Break</a></b>
+<b>1500-1515 - <a name="1-8">Break</a></b><br>
 </tr>
 
 <tr>
-<b>1515-1630 - <a name="1-9">OJN 111 - Stat Can Workshop (Contd...)</a></b>
+<b>1515-1630 - <a name="1-9">OJN 111 - Stat Can Workshop (Contd...)</a></b><br>
 </tr>
 
 </tbody>
