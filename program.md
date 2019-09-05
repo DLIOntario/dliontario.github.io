@@ -28,37 +28,37 @@ permalink: /program/
 </tr>	
 
 <tr>
-**0915-1030** - <a name="1-3">**OJN 111 - <a name="1-3">Stat Can Workshop**</a><br>
+**0915-1030** - <a name="1-3">**OJN 111** - <a name="1-3">**Stat Can Workshop**</a><br>
 	
 Description coming soon!
 </tr>	
 
 <tr>
-**1030-1045 - <a name="1-4">Break**</a><br>
+**1030-1045** - <a name="1-4">**Break**</a><br>
 </tr>
 
 <tr>
-**1045-1200 - <a name="1-5"> - Stat Can Workshop**</a><br>
+**1045-1200** - <a name="1-5"> - **Stat Can Workshop**</a><br>
 
 Description coming soon!
 </tr>
 
 <tr>
-**1200-1330 - <a name="1-6">Lunch (on your own)**</a><br>
+**1200-1330** - <a name="1-6">**Lunch (on your own)**</a><br>
 
 - some details about places to go for lunch
 </tr>
 
 <tr>
-**1330-1445 - <a name="1-7a">OJN 111 - Stat Can Workshop (Contd...)**</a><br>
+**1330-1445** - <a name="1-7a">**OJN 111 - Stat Can Workshop (Contd...)**</a><br>
 </tr>
 
 <tr>
-**1500-1515 - <a name="1-8">Break**</a><br>
+**1500-1515** - <a name="1-8">**Break**</a><br>
 </tr>
 
 <tr>
-**1515-1630 - <a name="1-9">OJN 111 - Stat Can Workshop (Contd...)**</a><br>
+**1515-1630** - <a name="1-9">**OJN 111 - Stat Can Workshop (Contd...)**</a><br>
 </tr>
 
 </tbody>
