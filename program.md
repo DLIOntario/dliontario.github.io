@@ -45,7 +45,7 @@ A quick refresher course for those who have had statistical training in the past
 <tr>
 	<b><a name="1-6">1200-1330: Lunch (on your own)</a></b><br>
 
-- some details about places to go for lunch
+- Details coming soon!
 </tr>
 <p>
 <tr>
