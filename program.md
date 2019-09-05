@@ -8,7 +8,7 @@ permalink: /program/
 </p>
 
 <p>
-<b>Day 1 (Tuesday)</b>
+<b>Day 1 (Tuesday)</b><p>
 
 <b>0830-0900 - <a name="1-1">OJN 111 - Arrival and Refreshments</b> </a><br>
 
