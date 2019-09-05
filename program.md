@@ -197,7 +197,7 @@ Description coming soon!
 <tr>
 <b><a name="3-5">1200-1330: Lunch (on your own)</a></b><br>
 
-- some details about places to go for lunch
+- Details coming soon!
 
 </tr>
 <p>
