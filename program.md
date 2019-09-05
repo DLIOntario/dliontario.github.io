@@ -157,35 +157,55 @@ Description coming soon!
 
 <p>
 
+<tr>
 <p>
 
-<b>0830-0900 - <a name="3-1"><b>OJN 111 - Arrival and Refreshments</a></b>
+<b><a name="3-1">0830-0900: OJN 111 - Arrival and Refreshments</a></b><br>
+
+</tr>
 <p>
 
-<b>0900-1030 - <a name="3-2"><b>OJN 111 - Subject Matter</a></b><br>
+<tr>
+<b><a name="3-2">0900-1030: OJN 111 - Subject Matter</a></b><br>
 	
 Description coming soon!
+
+</tr>
 <p>
 
-<b>1030-1045 - <a name="3-3"><b>Break</a></b>
+<b><a name="3-3">1030-1045: Break</a></b><br>
+
+</tr>
 <p>
 
-<b>1045-1200 - <a name="3-4"><b>Presentation by McMaster RDC Analyst</a></b><br>
+<tr>
+<b><a name="3-4">1045-1200: Presentation by McMaster RDC Analyst</a></b><br>
 
 Description coming soon!
+
+</tr>
 <p>
 
-<b>1200-1330 - <a name="3-5"><b>Lunch (on your own)</a></b><br>
+<tr>
+<b><a name="3-5">1200-1330: Lunch (on your own)</a></b><br>
 
 - some details about places to go for lunch
+
+</tr>
 <p>
 
-<b>1330-1500 - <a name="3-6"><b>OJN 111 - Roundtable Discussion</a></b><br>
+<tr>
+<b><a name="3-6">1330-1500: OJN 111 - Roundtable Discussion</a></b><br>
 
 - Topics coming soon!
+
+</tr>
 <p>
 
-<b>1500-1530 - <a name="3-7"><b>Wrap-up</a></b>
+<tr>
+<b><a name="3-7">1500-1530: Wrap-up</a></b><br>
+
+</tr>
 	
 </tbody>
 </table>
