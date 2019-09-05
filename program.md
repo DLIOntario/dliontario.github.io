@@ -13,57 +13,49 @@ permalink: /program/
 <table class="one">
 <tbody>
    <tr>
-   <b>0830-0900 - <a name="1-1">OJN 111 - Arrival and Refreshments</a><br>
+	   <b>0830-0900 - <a name="1-1">OJN 111 - Arrival and Refreshments</a></b><br>
 
 - Geneviève Jourdain (Statistics Canada; Chief, Microdata Access Division) will be available for an informal chat with people new to DLI and DLI Training.
-<p></tr>
+</tr>
 
 <tr>
-<b>0900-0915 - <a name="1-2">OJN 111 - Welcome and Housekeeping</a>
-<p>
+	<b>0900-0915 - <a name="1-2">OJN 111 - Welcome and Housekeeping</a></b>
+
 </tr>	
 
 <tr>
 <b>0915-1030 - <a name="1-3">OJN 111 - <a name="1-3">Stat Can Workshop</a></b><br>
 	
 Description coming soon!
-<p>
 </tr>	
 
 <tr>
 <b>1030-1045 - <a name="1-4">Break</a></b>
-<p>
 </tr>
 
 <tr>
 <b>1045-1200 - <a name="1-5"> - Stat Can Workshop</a></b><br>
 
 Description coming soon!
-<p>
 </tr>
 
 <tr>
 <b>1200-1330 - <a name="1-6">Lunch (on your own)</a></b><br>
 
 - some details about places to go for lunch
-<p>
 </tr>
 
 <tr>
 <b>1330-1445 - <a name="1-7a">OJN 111 - Stat Can Workshop (Contd...)</a></b>
-<p>
 </tr>
 
 <tr>
 <b>1500-1515 - <a name="1-8">Break</a></b>
-<p>
 </tr>
 
 <tr>
 <b>1515-1630 - <a name="1-9">OJN 111 - Stat Can Workshop (Contd...)</a></b>
-<p>
 </tr>
-<p>
 
 </tbody>
 </table>
