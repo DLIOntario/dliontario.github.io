@@ -86,8 +86,6 @@ A quick refresher course for those who have had statistical training in the past
 
 <tr>
 <b><a name="2-3">0915-1000: OJN 111 - DLI Update</a></b><br>
-	
-- Geneviève Jourdain (Statistics ada; Chief, Microdata Access Division)
 </tr>
 
 <p>
@@ -108,7 +106,7 @@ A quick refresher course for those who have had statistical training in the past
 <p>
 
 <tr>
-<b><a name="2-6">1045-1200: OJN 111 - Presentation on Picasso</a></b><br>
+<b><a name="2-6">1045-1200: OJN 111 - Presentation</a></b><br>
 
 - Description coming soon!
 
