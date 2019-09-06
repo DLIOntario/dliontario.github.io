@@ -18,8 +18,8 @@ permalink: /schedule/
     <tr>
 	<td>0830-0900</td>
 	<td>OJN 111</td>
-	<td><a name="1-1" href="/program/#1-1">Arrival and Refreshments: DLI Chat with new those new to DLI or the DLI Contact role</a></td>
-	<td>Geneviève Jourdain, Stat Can</td>
+	<td><a name="1-1" href="/program/#1-1">Arrival and Refreshments</a></td>
+	<td>TBA</td>
     </tr>
     <tr>
     <td>0900-0915</td>
@@ -101,7 +101,7 @@ permalink: /schedule/
     <td>0915-1000</td>
     <td>OJN 111</td>
     <td><a name="2-3" href="/program/#2-3">DLI Update</a></td>
-    <td>Geneviève Jourdain</td>
+    <td>TBA</td>
     </tr>
     <tr>
     <td>1000-1030</td>
@@ -118,7 +118,7 @@ permalink: /schedule/
     <tr>
     <td>1045-1200</td>
     <td>OJN 111</td>
-    <td><a name="2-6" href="/program/#2-6">Presentation on Picasso</a></td>
+    <td><a name="2-6" href="/program/#2-6">Presentation</a></td>
     <td>TBA</td>
     </tr>
     <tr>
