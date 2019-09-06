@@ -189,12 +189,10 @@ Description coming soon!
 <p>
 
 <tr>
-<b><a name="3-7">1500-1530: Wrap-up</a></b><br>
-
+<b><a name="3-7">1500-1530: Wrap-up</a></b>
 </tr>
 <p>
 </tbody>
-
   </table>
 
 
