@@ -28,7 +28,7 @@ permalink: /schedule/
     <td></td>
     </tr>
     <tr>
-    <td>0915-1030</td>
+    <td>0915-1630</td>
     <td>OJN 111</td>
     <td><a name="1-3" href="/program/#1-3">Stat Can Workshop</a></td>
     <td>TBA</td>
@@ -40,33 +40,15 @@ permalink: /schedule/
     <td></td>
     </tr>
     <tr>
-    <td>1045-1200</td>
-    <td>OJN 111</td>
-    <td><a name="1-5" href="/program/#1-5">Stat Can Workshop </a></td>
-    <td>TBA</td>
-    </tr>
-    <tr>
     <td>1200-1330</td>
     <td></td>
     <td><a name="1-6" href="/program/#1-6">Lunch (on your own)</a></td>
     <td></td>
     </tr>
     <tr>
-    <td>1330-1445</td>
-    <td>OJN 111</td>
-    <td><a name="1-7" href="/program/#1-7">Stat Can Workshop</a></td>
-    <td>TBA</td>
-    </tr>
-    <tr>
     <td>1445-1500</td>
     <td>OJN 111</td>
     <td><a name="1-8" href="/program/#1-8">Break</a></td>
-    <td></td>
-    </tr>
-    <tr>
-    <td>1500-1630</td>
-    <td>OJN 111</td>
-    <td><a name="1-9" href="/program/#1-9">Stat Can Workshop</a></td>
     <td></td>
     </tr>
    </tbody>
