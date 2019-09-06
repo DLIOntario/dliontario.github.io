@@ -176,7 +176,7 @@ permalink: /schedule/
     <tr>
     <td>0900-1030</td>
     <td>OJN 111</td>
-    <td><a name="3-2" href="/program/#3-2">Subject Matter</a></td>
+    <td><a name="3-2" href="/program/#3-2">Presentation</a></td>
     <td>TBA</td>
     </tr>
     <tr>
