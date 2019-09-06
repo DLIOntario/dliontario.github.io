@@ -26,7 +26,7 @@ permalink: /program/
 </tr>	
 <p>
 <tr>
-	<b><a name="1-3">0915-1030: OJN 111 - Stat Can Workshop</a></b><br>
+	<b><a name="1-3">0915-1630: OJN 111 - Stat Can Workshop</a></b><br>
 	
 A quick refresher course for those who have had statistical training in the past or a fast-paced introduction to basic statistics for beginners. Statistical measures such as percentages, averages, frequency and standard error are used widely. But how are they calculated, and exactly what do they tell us? This one day workshop will help participants develop an appreciation of the potential of statistics and a critical eye of when and how they should or shouldn't be used.
 </tr>	
@@ -36,34 +36,15 @@ A quick refresher course for those who have had statistical training in the past
 </tr>
 <p>
 <tr>
-	<b><a name="1-5">1045-1200: OJN 111 - Stat Can Workshop</a></b><br>
-
-A quick refresher course for those who have had statistical training in the past or a fast-paced introduction to basic statistics for beginners. Statistical measures such as percentages, averages, frequency and standard error are used widely. But how are they calculated, and exactly what do they tell us? This one day workshop will help participants develop an appreciation of the potential of statistics and a critical eye of when and how they should or shouldn't be used.
-</tr>
-<p>
-<tr>
 	<b><a name="1-6">1200-1330: Lunch (on your own)</a></b><br>
 
 - Details coming soon!
 </tr>
 <p>
 <tr>
-	<b><a name="1-7">1330-1445: OJN 111 - Stat Can Workshop (Contd...)</a></b><br>
-	
-A quick refresher course for those who have had statistical training in the past or a fast-paced introduction to basic statistics for beginners. Statistical measures such as percentages, averages, frequency and standard error are used widely. But how are they calculated, and exactly what do they tell us? This one day workshop will help participants develop an appreciation of the potential of statistics and a critical eye of when and how they should or shouldn't be used.
-</tr>
-<p>
-<tr>
 	<b><a name="1-8">1500-1515: Break</a></b><br>
 </tr>
 <p>
-	
-<tr>
-	<b><a name="1-9">1515-1630: OJN 111 - Stat Can Workshop (Contd...)</a></b><br>
-	
-A quick refresher course for those who have had statistical training in the past or a fast-paced introduction to basic statistics for beginners. Statistical measures such as percentages, averages, frequency and standard error are used widely. But how are they calculated, and exactly what do they tell us? This one day workshop will help participants develop an appreciation of the potential of statistics and a critical eye of when and how they should or shouldn't be used.
-
-</tr>
 <p><p>
 <tr>
 <p><b><a name="day-two">Day 2 (Wednesday)</a> | <a href="#day-one">back to top</a></b></p>
@@ -169,7 +150,7 @@ A quick refresher course for those who have had statistical training in the past
 <p>
 
 <tr>
-<b><a name="3-2">0900-1030: OJN 111 - Subject Matter</a></b><br>
+<b><a name="3-2">0900-1030: OJN 111 - Presentation</a></b><br>
 	
 Description coming soon!
 
@@ -211,9 +192,7 @@ Description coming soon!
 <b><a name="3-7">1500-1530: Wrap-up</a></b><br>
 
 </tr>
-
-<p><p>
-	
+<p>
 </tbody>
 
   </table>
