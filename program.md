@@ -42,7 +42,7 @@ A quick refresher course for those who have had statistical training in the past
 </tr>
 <p>
 <tr>
-	<b><a name="1-8">1500-1515: Break</a></b><br>
+	<b><a name="1-8">1445-1500: Break</a></b><br>
 </tr>
 <p>
 <p><p>
