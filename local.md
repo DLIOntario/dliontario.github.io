@@ -15,9 +15,6 @@ permalink: /local/
 <h2 id="accommodations">Accommodations</h2>
 <h3 id="staybridge-suites">Staybridge Suites</h3>
 
-<!--
-<!--<p>A block of rooms at the Hamilton <a href="https://www.ihg.com/staybridge/hotels/us/en/hamilton/yhmha/hoteldetail?cm_mmc=GoogleMaps-_-SB-_-CA-_-YHMHA">Staybridge Suites</a> has been reserved for Forum attendees at a discounted price. The discounted <!--rate can be obtained through a special weblink provided by the event organizers. Attendees should receive this weblink in their <!--acceptance email message. Please <a href="mailto:canadiandatacurationforum@gmail.com">contact the organizers</a> if you did not receive <!--the code.  <strong>Bookings should be made before September 15th, 2019 to ensure a discounted price.</strong> After this date, rooms <!--will be released to the public, and rates will reset to standard prices (&gt;$160+tax per night).</p>
-
 <h3 id="other-options">Other Options</h3>
 <p>A number of other off-campus accommodations are available. See the table below for a list of the closest options.</p>
 
