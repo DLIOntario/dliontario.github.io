@@ -53,7 +53,7 @@ permalink: /local/
 
 <h3 id="travel">Travel</h3>
 <p><strong>From Pearson Airport</strong><br />
-To get from <a href="https://www.torontopearson.com/en">Pearson Airport</a> (YYZ) to downtown Hamilton, the best approach is to take the <a href="https://www.triplinx.ca/en/route-schedules/6/RouteSchedules/pearson-airport-richmond-hill-service/21/richmond-hill-centre-square-one/2?PartnerId=2">number 40 GO bus</a>, which travels from terminal 1 (pickup on the lowest level) to downtown Hamilton.</p>
+To get from <a href="https://www.torontopearson.com/en">Pearson Airport</a> (YYZ) to downtown Hamilton, the best approach is to take the <a href="https://www.triplinx.ca/en/route-schedules/6/RouteSchedules/pearson-airport-richmond-hill-service/21/richmond-hill-centre-square-one/2?PartnerId=2">number 40 Hamilton GO bus</a>, which travels from terminal 1 (pickup on the lowest level) to downtown Hamilton.</p>
 <ul>
   <li>If traveling to a downtown hotel (e.g. Staybridge Suites), exit the bus at the Caroline stop (be sure to request the stop) to arrive at the hotel.</li>
   <li>If traveling directly to One James North, exit the bus at the Summers Lane stop (be sure to request the stop).</li>
