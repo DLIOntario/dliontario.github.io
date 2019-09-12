@@ -39,7 +39,7 @@ permalink: /local/
     <tr>
       <td><a href="http://www.visitorsinn.com/">Visitors Inn Hamilton</a></td>
       <td>from $139 per night</td>
-      <td>Nearest hotel to McMaster</td>
+      <td>Nearest hotel to McMaster Main Campus</td>
       <td><a href="https://www.google.com/maps/place/Visitors+Inn/@43.2600759,-79.8986587,17z/data=!3m1!4b1!4m5!3m4!1s0x882c9b6779f3213d:0x21cd2856c5ccd658!8m2!3d43.260072!4d-79.89647">View on Map</a></td>
     </tr>
     <tr>
