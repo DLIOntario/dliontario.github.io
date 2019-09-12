@@ -9,7 +9,7 @@ permalink: /local/
 <p>The ODC Meeting on Monday, December 2 and DLI training from December 3 - 5 will take place at the <a href="https://goo.gl/maps/5kK3S6DEB4SJ8SYV8">McMaster Centre for Continuing Education</a>, located at 1 James St. North, Hamilton, ON.</p>
 
 <h3 id="accommodations">Accommodations</h3>
-<h4 id="staybridge-suites">Staybridge Suites</h4>
+<h4 id="staybridge-suites"><a href="https://www.ihg.com/staybridge/hotels/us/en/hamilton/yhmha/hoteldetail">Staybridge Suites</a></h4>
 
 <h3 id="other-options">Other Options</h3>
 <p>A number of other off-campus accommodations are available. See the table below for a list of the closest options.</p>
