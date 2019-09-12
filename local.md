@@ -4,10 +4,6 @@ title: Local Arrangements
 permalink: /local/
 ---
 
-<header class="post-header">
-    <h1 class="post-title">Local Info</h1>
-  </header>
-
   <article class="post-content">
     <h2 id="venue">Venue</h2>
 <p>All events will take place at the <a href="https://goo.gl/maps/5kK3S6DEB4SJ8SYV8">McMaster Centre for Continuing Education</a>, located at 1 James St. North, Hamilton, ON.</p>
