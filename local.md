@@ -5,11 +5,11 @@ permalink: /local/
 ---
 
   <article class="post-content">
-    <h2 id="venue">Venue</h2>
+    <h3 id="venue">Venue</h3>
 <p>All events will take place at the <a href="https://goo.gl/maps/5kK3S6DEB4SJ8SYV8">McMaster Centre for Continuing Education</a>, located at 1 James St. North, Hamilton, ON.</p>
 
-<h2 id="accommodations">Accommodations</h2>
-<h3 id="staybridge-suites">Staybridge Suites</h3>
+<h3 id="accommodations">Accommodations</h3>
+<h4 id="staybridge-suites">Staybridge Suites</h4>
 
 <h3 id="other-options">Other Options</h3>
 <p>A number of other off-campus accommodations are available. See the table below for a list of the closest options.</p>
@@ -51,7 +51,7 @@ permalink: /local/
   </tbody>
 </table>
 
-<h2 id="travel">Travel</h2>
+<h3 id="travel">Travel</h3>
 <p><strong>From Pearson Airport</strong><br />
 To get from <a href="https://www.torontopearson.com/en">Pearson Airport</a> (YYZ) to downtown Hamilton, the best approach is to take the <a href="https://www.triplinx.ca/en/route-schedules/6/RouteSchedules/pearson-airport-richmond-hill-service/21/richmond-hill-centre-square-one/2?PartnerId=2">number 40 GO bus</a>, which travels from terminal 1 (pickup on the lowest level) to downtown Hamilton.</p>
 <ul>
@@ -68,14 +68,14 @@ Hamilton Street Railway (HSR) services the entire Hamilton area. Plan your trip 
 <p><strong>Cycling</strong><br />
 <a href="https://hamilton.socialbicycles.com/">Sobi Hamilton</a> is a vast, affordable, and robust bicycle sharing program that facilitates transportation across the city.</p>
 
-<h2 id="recreation">Recreation</h2>
+<h3 id="recreation">Recreation</h3>
 <p><strong>Trails</strong><br />
 Hamilton is home to a variety of urban and rural cycling and recreational trails. Visit <a href="https://nature.mcmaster.ca/">Nature at McMaster</a> or the City of Hamilton’s <a href="https://www.hamilton.ca/streets-transportation/biking-cyclists/cycling-routes-maps">Cycling Routes &amp; Maps page</a> for more information.</p>
 
 <p><strong>Waterfalls</strong><br />
 Built around and atop the Niagara Escarpment, Hamilton is known as the city of Waterfalls. Find more information from <a href="https://tourismhamilton.com/hamilton-waterfalls">Tourism Hamilton</a>, or see the full <a href="http://www.waterfalls.hamilton.ca/WaterfallMaps/Waterfalls_MainMap_GeoPDF.pdf">Cascades and waterfalls of Hamilton map</a> from <a href="http://www.waterfalls.hamilton.ca/default.asp?id=2">waterfalls.hamilton.ca</a>.</p>
 
-<h2 id="food--drink">Food &amp; Drink</h2>
+<h3 id="food--drink">Food &amp; Drink</h3>
 <p>Hamilton is home to a thriving food scene. You can explore the local offerings through websites such as the <a href="http://theinletonline.com/">Inlet</a> and <a href="https://tourismhamilton.com/eat">Tourism Hamilton</a>.</p>
 
   </article>
