@@ -11,7 +11,7 @@ permalink: /local/
 <h3 id="accommodations">Accommodations</h3>
 <h4 id="staybridge-suites"><a href="https://www.ihg.com/staybridge/hotels/us/en/hamilton/yhmha/hoteldetail">Staybridge Suites</a></h4>
 
-<h3 id="other-options">Other Options</h3>
+<h4 id="other-options">Other Options</h4>
 <p>A number of other off-campus accommodations are available. See the table below for a list of the closest options.</p>
 
 <table>
