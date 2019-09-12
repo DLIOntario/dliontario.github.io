@@ -90,9 +90,5 @@ Built around and atop the Niagara Escarpment, Hamilton is known as the city of W
 
 </div>
 
-      </div>
-    </div>
-
-    <footer class="site-footer">
-
+     
   <div class="wrapper">
