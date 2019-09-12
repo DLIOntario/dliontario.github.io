@@ -47,7 +47,7 @@ permalink: /schedule/
     </tr>
     <tr>
     <td>1445-1500</td>
-    <td>OJN 111</td>
+    <td></td>
     <td><a name="1-8" href="/program/#1-8">Break</a></td>
     <td></td>
     </tr>
@@ -117,7 +117,7 @@ permalink: /schedule/
     </tr>
     <tr>
     <td>1445-1500</td>
-    <td>OJN 111</td>
+    <td></td>
     <td><a name="2-9" href="/program/#2-9">Break</a></td>
     <td></td>
     </tr>
