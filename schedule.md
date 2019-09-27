@@ -101,31 +101,31 @@ The ODC Meeting will take place on Monday, December 2, 2019 from 9 am - 4:30 pm 
     <td></td>
     </tr>
     <tr>
-    <td>1045-1200</td>
+    <td>1045-1215</td>
     <td>OJN 111</td>
-    <td><a name="2-6" href="/program/#2-6">Presentation</a></td>
-    <td>TBA</td>
+    <td><a name="2-6" href="/program/#2-6">Presentation on Picasso</a></td>
+    <td>Cory Chobanik</td>
     </tr>
     <tr>
-    <td>1200-1330</td>
+    <td>1215-1345</td>
     <td></td>
     <td><a name="2-7" href="/program/#2-7">Lunch (on your own)</a></td>
     <td></td>
     </tr>
     <tr>
-    <td>1330-1445</td>
+    <td>1345-1500</td>
     <td>OJN 111</td>
     <td><a name="2-8" href="/program/#2-8">Workshops</a></td>
-    <td>TBA</td>
+    <td>Liz Sutherland</td>
     </tr>
     <tr>
-    <td>1445-1500</td>
+    <td>1500-1515</td>
     <td></td>
     <td><a name="2-9" href="/program/#2-9">Break</a></td>
     <td></td>
     </tr>
     <tr>
-    <td>1500-1630</td>
+    <td>1515-1645</td>
     <td>OJN 111</td>
     <td><a name="2-10" href="/program/#2-10">Workshops</a></td>
     <td></td>
