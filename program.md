@@ -17,7 +17,7 @@ permalink: /program/
  </thead>
 <tbody>
    <tr>   
-	   <b><a name="1-1">0830-0900: OJN 111 - Arrival and Refreshments</a></b> <br>
+	   <b><a name="1-1">0830-0900: OJN 111 - Arrival and Refreshments; Informal Meet and Greet with Stat Can</a></b> <br>
 </tr>
 <p>
 <tr>
@@ -54,7 +54,7 @@ A quick refresher course for those who have had statistical training in the past
 <p>
 	
 <tr>
-<b><a name="2-1">0830-0900: OJN 111 - Arrival and Refreshments</a></b><br>
+<b><a name="2-1">0830-0900: OJN 111 - Arrival and Refreshments; Informal Meet and Greet with Stat Can</a></b><br>
 
 </tr>
 <p>
@@ -87,7 +87,7 @@ A quick refresher course for those who have had statistical training in the past
 <p>
 
 <tr>
-<b><a name="2-6">1045-1200: OJN 111 - Presentation</a></b><br>
+<b><a name="2-6">1045-1215: OJN 111 - Presentation on Picasso</a></b><br>
 
 - Description coming soon!
 
@@ -96,7 +96,7 @@ A quick refresher course for those who have had statistical training in the past
 <p>
 
 <tr>
-<b><a name="2-7">1200-1330: Lunch (on your own)</a></b><br>
+<b><a name="2-7">1215-1345: Lunch (on your own)</a></b><br>
 
 - Details coming soon!
 
@@ -105,7 +105,7 @@ A quick refresher course for those who have had statistical training in the past
 <p>
 
 <tr>
-<b><a name="2-8">1330-1445: OJN 111 - Workshops</a></b><br>
+<b><a name="2-8">1345-1500: OJN 111 - Workshops</a></b><br>
 
 - Description coming soon!
 
@@ -113,13 +113,13 @@ A quick refresher course for those who have had statistical training in the past
 <p>
 
 <tr>
-<b><a name="2-9">1445-1500: Break</a></b><br>
+<b><a name="2-9">1500-1515: Break</a></b><br>
 
 </tr>
 
 <p>
 <tr>
-<b><a name="2-10">1500-1630: OJN 111 -  Workshops</a></b><br>
+<b><a name="2-10">1515-1645: OJN 111 -  Workshops</a></b><br>
 
 - Description coming soon!
 
@@ -144,7 +144,7 @@ A quick refresher course for those who have had statistical training in the past
 
 <tr>
 
-<b><a name="3-1">0830-0900: OJN 111 - Arrival and Refreshments</a></b><br>
+<b><a name="3-1">0830-0900: OJN 111 - Arrival and Refreshments; Informal Meet and Greet with Stat Can</a></b><br>
 
 </tr>
 <p>
