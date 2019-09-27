@@ -21,8 +21,8 @@ The ODC Meeting will take place on Monday, December 2, 2019 from 9 am - 4:30 pm 
     <tr>
 	<td>0830-0900</td>
 	<td>OJN 111</td>
-	<td><a name="1-1" href="/program/#1-1">Arrival and Refreshments</a></td>
-	<td>TBA</td>
+	<td><a name="1-1" href="/program/#1-1">Arrival and Refreshments; Informal Meet and Greet with Stat Can</a></td>
+	<td>Geneviève Jourdain</td>
     </tr>
     <tr>
     <td>0900-0915</td>
@@ -73,8 +73,8 @@ The ODC Meeting will take place on Monday, December 2, 2019 from 9 am - 4:30 pm 
     <tr>
 	<td>0830-0900</td>
 	<td>OJN 111</td>
-	<td><a name="2-1" href="/program/#2-1">Arrival and Refreshments</a></td>
-	<td></td>
+	<td><a name="2-1" href="/program/#2-1">Arrival and Refreshments; Informal Meet and Greet with Stat Can</a></td>
+	<td>Geneviève Jourdain</td>
     </tr>
     <tr>
     <td>0900-0915</td>
@@ -155,8 +155,8 @@ The ODC Meeting will take place on Monday, December 2, 2019 from 9 am - 4:30 pm 
     <tr>
 	<td>0830-0900</td>
 	<td>OJN 111</td>
-	<td><a name="3-1" href="/program/#3-1">Arrival and Refreshments</a></td>
-	<td></td>
+	<td><a name="3-1" href="/program/#3-1">Arrival and Refreshments; Informal Meet and Greet with Stat Can</a></td>
+	<td>Geneviève Jourdain</td>
     </tr>
     <tr>
     <td>0900-1030</td>
