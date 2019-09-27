@@ -17,7 +17,7 @@ permalink: /program/
  </thead>
 <tbody>
    <tr>   
-	   <b><a name="1-1">0830-0900: OJN 111 - Arrival and Refreshments; Informal Meet and Greet with Stat Can</a></b> <br>
+	   <b><a name="1-1">0830-0900: OJN 111 - Arrival and Refreshments</a></b> <br>
 </tr>
 <p>
 <tr>
