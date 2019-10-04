@@ -33,8 +33,8 @@ The ODC Meeting will take place on Monday, December 2, 2019 from 9 am - 4:30 pm 
     <tr>
     <td>0915-1630</td>
     <td>OJN 111</td>
-    <td><a name="1-3" href="/program/#1-3">Stat Can Workshop</a></td>
-    <td>TBA</td>
+    <td><a name="1-3" href="/program/#1-3">Statistics Canada Workshop Introduction to Basic Statistics</a></td>
+    <td>Cory Chobanik and Ahmed Almaskut, Statistics Canada</td>
     </tr>
     <tr>
     <td>1030-1045</td>
