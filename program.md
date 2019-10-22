@@ -138,8 +138,9 @@ A quick refresher course for those who have had statistical training in the past
 <p>
 <tr>
 <b><a name="2-10d">1515-1645: OJN 208 -  Concurrent Workshop D: RTRA: Opening the jail doors -- letting the data out</a></b><br>
+	Presenters: Susan Mowers and Chantal Ripp
 
-- Description coming soon!
+<p>Participants will use RTRA to link data on crimes with those involved in crimes to create original tables not available through the DLI.  This workshop will show participants how to use RTRA to link and describe crime from the circumstances and characteristics of crimes, including their dates and times, CMA’s and province geography, property or weapons information, type of violations, together with the ages, sex and charges for all accused, and in the cases of violent crimes, the victim(s) of a crime, their relationship(s) to the accused, their ages, sex, levels of injury, and so on.  The data is from the Uniform Crime Report survey, a virtually 100% criminal violations sample, covering incidents, accused and victims.  This workshop is particularly timely as students and researchers of all backgrounds will soon be able to retrieve this RTRA data using the GUI interface now in testing.</p>  
 
 </tr>
 
