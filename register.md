@@ -4,4 +4,4 @@ title: Register
 permalink: /register/
 ---
 
-Registration coming soon!
+Registration is now open for 2019 DLI Ontario Training!
