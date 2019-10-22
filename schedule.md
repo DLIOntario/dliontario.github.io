@@ -3,6 +3,8 @@ layout: page
 title: Schedule
 permalink: /schedule/
 ---
+<h4>ODC Meeting</h4>
+
 The ODC Meeting will take place on Monday, December 2, 2019 from 9 am - 4:30 pm in Room 213 of <a href="https://goo.gl/maps/5kK3S6DEB4SJ8SYV8">McMaster Centre for Continuing Education</a>, 1 James St. North, Hamilton, ON.
 
 <h4>DLI Training</h4>
