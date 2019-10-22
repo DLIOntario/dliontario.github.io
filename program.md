@@ -137,7 +137,7 @@ A quick refresher course for those who have had statistical training in the past
 
 <p>
 <tr>
-<b><a name="2-10d">1515-1645: OJN 111 -  Concurrent Workshop D: RTRA: Opening the jail doors -- letting the data out</a></b><br>
+<b><a name="2-10d">1515-1645: OJN 208 -  Concurrent Workshop D: RTRA: Opening the jail doors -- letting the data out</a></b><br>
 
 - Description coming soon!
 
