@@ -26,7 +26,7 @@ permalink: /program/
 </tr>	
 <p>
 <tr>
-	<b><a name="1-3">0915-1630: OJN 111 - Stat Can Workshop</a><br>
+	<b><a name="1-3">0915-1630: OJN 111 - Statistics Canada Workshop: Introduction to Basic Statistics</a><br>
 Presenter: Ahmed Almaskut, Statistics Canada</b>	
 <p>A quick refresher course for those who have had statistical training in the past or a fast-paced introduction to basic statistics for beginners. Statistical measures such as percentages, averages, frequency and standard error are used widely. But how are they calculated, and exactly what do they tell us? This one day workshop will help participants develop an appreciation of the potential of statistics and a critical eye of when and how they should or shouldn't be used.</p>
 </tr>	
