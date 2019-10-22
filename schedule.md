@@ -120,7 +120,7 @@ The ODC Meeting will take place on Monday, December 2, 2019 from 9 am - 4:30 pm 
     </tr>
     <tr>
     <td>1345-1500</td>
-    <td>OJN 111</td>
+    <td>OJN 208</td>
     <td><a name="2-8" href="/program/#2-8">Concurrent Workshop B: Analyzing and Managing Data in Excel</a></td>
     <td>Lise Doucette</td>
     </tr>
@@ -138,7 +138,7 @@ The ODC Meeting will take place on Monday, December 2, 2019 from 9 am - 4:30 pm 
     </tr>
     <tr>
     <td>1515-1645</td>
-    <td>OJN 111</td>
+    <td>OJN 208</td>
     <td><a name="2-10" href="/program/#2-10">Concurrent Workshop D: RTRA: Opening the jail doors -- letting the data out</a></td>
     <td>Susan Mowers and Chantal Ripp</td>
     </tr>
