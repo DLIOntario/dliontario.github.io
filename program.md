@@ -105,11 +105,21 @@ A quick refresher course for those who have had statistical training in the past
 <p>
 
 <tr>
-<b><a name="2-8">1345-1500: OJN 111 - Workshops</a></b><br>
+<b><a name="2-8a">1345-1500: OJN 111 - Concurrent Workshop A: Census and GIS</a></b><br>
 
 - Description coming soon!
 
 </tr>
+
+<p>
+
+<tr>
+<b><a name="2-8b">1345-1500: OJN 208 - 	Concurrent Workshop B: Analyzing and Managing Data in Excel</a></b><br>
+
+- Description coming soon!
+
+</tr>
+
 <p>
 
 <tr>
@@ -119,7 +129,15 @@ A quick refresher course for those who have had statistical training in the past
 
 <p>
 <tr>
-<b><a name="2-10">1515-1645: OJN 111 -  Workshops</a></b><br>
+<b><a name="2-10c">1515-1645: OJN 111 -  Concurrent Workshop C: Introduction to R Programming</a></b><br>
+
+- Description coming soon!
+
+</tr>
+
+<p>
+<tr>
+<b><a name="2-10d">1515-1645: OJN 111 -  Concurrent Workshop D: RTRA: Opening the jail doors -- letting the data out</a></b><br>
 
 - Description coming soon!
 
