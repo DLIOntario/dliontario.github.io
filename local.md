@@ -4,7 +4,7 @@ title: Local Arrangements
 permalink: /local/
 ---
 
-  <article class="post-content">
+ 
     <h3 id="venue">Venue</h3>
 <p>The ODC Meeting on Monday, December 2 and DLI training from December 3 - 5 will take place at the <a href="https://goo.gl/maps/5kK3S6DEB4SJ8SYV8">McMaster Centre for Continuing Education</a>, located at 1 James St. North, Hamilton, ON.</p>
 
@@ -78,8 +78,6 @@ Built around and atop the Niagara Escarpment, Hamilton is known as the city of W
 
 <h3 id="food--drink">Food &amp; Drink</h3>
 <p>Hamilton is home to a thriving food scene. You can explore the local offerings through websites such as the <a href="http://theinletonline.com/">Inlet</a> and <a href="https://tourismhamilton.com/eat">Tourism Hamilton</a>.</p>
-
-  </article>
 
      
   <div class="wrapper">
