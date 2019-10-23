@@ -127,6 +127,12 @@ The ODC Meeting will take place on Monday, December 2, 2019 from 9 am - 4:30 pm 
     <td>Lise Doucette</td>
     </tr>
     <tr>
+    <td>1345-1500</td>
+    <td>Main Campus</td>
+    <td><a name="2-8c" href="/program/#2-8c">Concurrent Tour of McMaster RDC</a></td>
+    <td>Peter Kitchen</td>
+    </tr>
+    <tr>
     <td>1500-1515</td>
     <td></td>
     <td><a name="2-9" href="/program/#2-9">Break</a></td>
