@@ -137,7 +137,7 @@ Tour Guide: Peter Kitchen</b><br>
 <p>
 <tr>
 <b><a name="2-10c">1515-1645: OJN 111 -  Concurrent Workshop C: Introduction to R Programming</a><br>
-Presenter: TBA</b><br>
+Presenter: Kristi Thompson, Western University and Lucia Costanzo, University of Guelph</b><br>
 - Description coming soon!
 
 </tr>
