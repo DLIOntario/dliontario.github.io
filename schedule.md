@@ -193,7 +193,7 @@ The ODC Meeting will take place on Monday, December 2, 2019 from 9 am - 4:30 pm 
     <tr>
     <td>1200-1300</td>
     <td></td>
-    <td><a name="3-5" href="/program/#3-5">Lunch (on your own)</a></td>
+    <td><a name="3-5" href="/program/#3-5">Lunch (Provided)</a></td>
     <td></td>
     </tr>
     <tr>
