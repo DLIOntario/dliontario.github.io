@@ -202,7 +202,6 @@ The ODC Meeting will take place on Monday, December 2, 2019 from 9 am - 4:30 pm 
     <td><a name="3-5a" href="/program/#3-5">Historical Census Data Project Update</a></td>
     <td>Leanne Trimble, University of Toronto</td>
     </tr>
-   
     <tr>
     <td>1330-1400</td>
     <td>OJN 111</td>
