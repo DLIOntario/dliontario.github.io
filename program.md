@@ -169,8 +169,8 @@ Presenter: Ahmed Almaskut, Statistics Canada</b>
 <p>
 
 <tr>
-<b><a name="3-2">0900-1030: OJN 111 - Presentation</a></b><br>
-	
+<b><a name="3-2">0900-1030: OJN 111 - Business Data Presentation</a><br>
+	Presenter: Douwere Grekou, CEDR</b>
 Description coming soon!
 
 </tr>
@@ -184,19 +184,32 @@ Description coming soon!
 <p>
 
 <tr>
-<b><a name="3-4">1045-1200: Presentation by McMaster RDC Analyst</a></b><br>
-
+<b><a name="3-4">1045-1200: Presentation by McMaster RDC Analyst</a><br>
+Presenter: Peter Kitchen, McMaster RDC</b>
 Description coming soon!
 
 </tr>
 <p>
 
 <tr>
-<b><a name="3-5">1200-1330: Lunch (on your own)</a></b><br>
-
-- Details coming soon!
+<b><a name="3-5">1200-1300: Lunch (Provided)</a></b><br>
 
 </tr>
+
+<p>
+
+<tr>
+<b><a name="3-5a">1300-1330: Historical Census Data Project Update</a><br>
+Presenter: Leanne Trimble, University of Toronto</b>
+</tr>
+
+<p>
+
+<tr>
+<b><a name="3-5b">1330-1400: Presentation on DLI External Advisory Committee and Professional Development Committee</a><br>
+Presenter: Claire Wollen, Sheridan College, Alexandra Cooper, Queen’s University</b>
+</tr>
+
 <p>
 
 <tr>
