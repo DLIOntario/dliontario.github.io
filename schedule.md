@@ -175,8 +175,8 @@ The ODC Meeting will take place on Monday, December 2, 2019 from 9 am - 4:30 pm 
     <tr>
     <td>0900-1030</td>
     <td>OJN 111</td>
-    <td><a name="3-2" href="/program/#3-2">Presentation</a></td>
-    <td>TBA</td>
+    <td><a name="3-2" href="/program/#3-2">Business Data Presentation</a></td>
+    <td>Douwere Grekou, CEDR</td>
     </tr>
     <tr>
     <td>1030-1045</td>
@@ -188,22 +188,35 @@ The ODC Meeting will take place on Monday, December 2, 2019 from 9 am - 4:30 pm 
     <td>1045-1200</td>
     <td>OJN 111</td>
     <td><a name="3-4" href="/program/#3-4">Presentation by McMaster RDC Analyst</a></td>
-    <td>Peter Kitchen</td>
+    <td>Peter Kitchen, McMaster RDC</td>
     </tr>
     <tr>
-    <td>1200-1330</td>
+    <td>1200-1300</td>
     <td></td>
     <td><a name="3-5" href="/program/#3-5">Lunch (on your own)</a></td>
     <td></td>
     </tr>
     <tr>
-    <td>1330-1500</td>
+    <td>1300-1330</td>
+    <td>OJN 111</td>
+    <td><a name="3-5a" href="/program/#3-5">Historical Census Data Project Update</a></td>
+    <td>Leanne Trimble, University of Toronto</td>
+    </tr>
+    <tr>
+    <tr>
+    <td>1330-1400</td>
+    <td>OJN 111</td>
+    <td><a name="3-5b" href="/program/#3-5">Presentation on DLI External Advisory Committee and Professional Development Committee</a>       </td>
+    <td>Claire Wollen, Sheridan College and Alexandra Cooper, Queen’s University</td>
+    </tr>
+    <tr>
+    <td>1400-1530</td>
     <td>OJN 111</td>
     <td><a name="3-6" href="/program/#3-6">Roundtable Discussion</a></td>
     <td>TBA</td>
     </tr>
     <tr>
-    <td>1500-1530</td>
+    <td>1530-1600</td>
     <td>OJN 111</td>
     <td><a name="3-7" href="/program/#3-7">Wrap-up</a></td>
     <td></td>
