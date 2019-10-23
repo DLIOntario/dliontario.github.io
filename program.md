@@ -87,8 +87,8 @@ Presenter: Ahmed Almaskut, Statistics Canada</b>
 <p>
 
 <tr>
-<b><a name="2-6">1045-1215: OJN 111 - Presentation on Picasso</a></b><br>
-
+<b><a name="2-6">1045-1215: OJN 111 - Presentation on Picasso</a><br>
+Presenter: Cory Chobanik</b><br>
 - Description coming soon!
 
 </tr>
@@ -105,8 +105,8 @@ Presenter: Ahmed Almaskut, Statistics Canada</b>
 <p>
 
 <tr>
-<b><a name="2-8a">1345-1500: OJN 111 - Concurrent Workshop A: Census and GIS</a></b><br>
-
+<b><a name="2-8a">1345-1500: OJN 111 - Concurrent Workshop A: Census and GIS</a><br>
+Presenter: Liz Sutherland</b><br>
 - Description coming soon!
 
 </tr>
@@ -114,8 +114,8 @@ Presenter: Ahmed Almaskut, Statistics Canada</b>
 <p>
 
 <tr>
-<b><a name="2-8b">1345-1500: OJN 208 - 	Concurrent Workshop B: Analyzing and Managing Data in Excel</a></b><br>
-
+<b><a name="2-8b">1345-1500: OJN 208 - 	Concurrent Workshop B: Analyzing and Managing Data in Excel</a><br>
+Presenter: Lise Doucette</b><br>
 - Description coming soon!
 
 </tr>
@@ -123,8 +123,8 @@ Presenter: Ahmed Almaskut, Statistics Canada</b>
 <p>
 
 <tr>
-<b><a name="2-8c">1345-1500: Main Campus - Concurrent Tour of McMaster RDC</a></b><br>
-
+<b><a name="2-8c">1345-1500: Main Campus - Concurrent Tour of McMaster RDC</a><br>
+Tour Guide: Peter Kitchen</b><br>
 </tr>
 
 <p>
@@ -136,8 +136,8 @@ Presenter: Ahmed Almaskut, Statistics Canada</b>
 
 <p>
 <tr>
-<b><a name="2-10c">1515-1645: OJN 111 -  Concurrent Workshop C: Introduction to R Programming</a></b><br>
-
+<b><a name="2-10c">1515-1645: OJN 111 -  Concurrent Workshop C: Introduction to R Programming</a><br>
+Presenter: TBA</b><br>
 - Description coming soon!
 
 </tr>
