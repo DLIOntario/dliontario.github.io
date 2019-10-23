@@ -142,7 +142,7 @@ The ODC Meeting will take place on Monday, December 2, 2019 from 10:30 am - 4:30
     <td>1515-1645</td>
     <td>OJN 111</td>
     <td><a name="2-10c" href="/program/#2-10c">Concurrent Workshop C: Introduction to R Programming</a></td>
-    <td>TBA</td>
+    <td>Kristi Thompson and Lucia Costanzo</td>
     </tr>
     <tr>
     <td>1515-1645</td>
