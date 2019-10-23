@@ -123,6 +123,13 @@ Presenter: Ahmed Almaskut, Statistics Canada</b>
 <p>
 
 <tr>
+<b><a name="2-8c">1345-1500: Main Campus - Tour of McMaster RDC</a></b><br>
+
+</tr>
+
+<p>
+
+<tr>
 <b><a name="2-9">1500-1515: Break</a></b><br>
 
 </tr>
