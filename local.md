@@ -5,7 +5,7 @@ permalink: /local/
 ---
 
  
-    <h3 id="venue">Venue</h3>
+    <h3>Venue</h3>
 <p>The ODC Meeting on Monday, December 2 and DLI training from December 3 - 5 will take place at the <a href="https://goo.gl/maps/5kK3S6DEB4SJ8SYV8">McMaster Centre for Continuing Education</a>, located at 1 James St. North, Hamilton, ON.</p>
 
 <h3 id="accommodations">Accommodations</h3>
