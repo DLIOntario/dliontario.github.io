@@ -10,7 +10,7 @@ permalink: /local/
 
 <h3 id="accommodations">Accommodations</h3>
 <h4 id="staybridge-suites">Staybridge Suites</h4>
-<p>Please use this <a href="https://www.staybridge.com/redirect?path=hd&brandCode=SB&localeCode=en&regionCode=1&hotelCode=YHMHA&_PMID=99801505&GPC=MLR&cn=no&viewfullsite=true">link</a> to avail preffered discounted rate of $135 per night (includes complimentary breakfast buffet, and Monday thru Wednesday complimentary light dinner).
+<p>Please use this <a href="https://www.staybridge.com/redirect?path=hd&brandCode=SB&localeCode=en&regionCode=1&hotelCode=YHMHA&_PMID=99801505&GPC=MLR&cn=no&viewfullsite=true">link</a> to avail preffered discounted rate of $135 per night (includes complimentary breakfast buffet, and Monday thru Wednesday complimentary light dinner). You'll be eligible for a full refund if you cancel your reservation up to 6pm the day prior to your arrival date.
 
 <h4 id="other-options">Other Options</h4>
 <p>A number of other off-campus accommodations are available. See the table below for a list of the closest options.</p>
