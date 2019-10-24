@@ -193,7 +193,8 @@ The ODC Meeting will take place on Monday, December 2, 2019 from 10:30 am - 4:30
     <tr>
     <td>1045-1200</td>
     <td>OJN 111</td>
-    <td><a name="3-4" href="/program/#3-4">Presentation by McMaster RDC Analyst</a></td>
+    <td><a name="3-4" href="/program/#3-4">The Statistics Canada Research Data Centre (RDC): Supporting access to micro-data at 
+McMaster University</a></td>
     <td>Peter Kitchen, McMaster RDC</td>
     </tr>
     <tr>
