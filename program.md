@@ -146,7 +146,7 @@ No programming skills are required for this workshop, just an interest and/or de
 	<li>Windows User: https://cran.r-project.org/bin/windows/base/</li>
 	<li>Mac User: https://cran.r-project.org/bin/macosx/</li> 
 	<li>Install RStudio Desktop: https://www.rstudio.com/products/rstudio/download/</li>
-	<li>What is R used for? Introduction to RStudio basics (5 min): https://youtu.be/SWxoJqTqo08?t=26s</li><br>
+	<li>What is R used for? Introduction to RStudio basics (5 min): https://youtu.be/SWxoJqTqo08?t=26s</li></ul><br>
 	
 <p><b>Please note:</b> All software installation must be done before the workshop, please ensure that you followed the software installation instructions. Out of courtesy to the class, we will not be able to troubleshoot software set up during class time. As well, please ensure you have administration rights on your computer to install the software. This will allow you to install R packages.  If you have any issues, please contact the IT Help desk on your campus.
 </tr>
