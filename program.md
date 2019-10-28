@@ -137,8 +137,19 @@ Tour Guide: Peter Kitchen</b><br>
 <p>
 <tr>
 <b><a name="2-10c">1515-1645: OJN 111 -  Concurrent Workshop C: Introduction to R Programming</a><br>
-Presenter: Kristi Thompson, Western University and Lucia Costanzo, University of Guelph</b><br>
-- Description coming soon!
+Presenter: Kristi Thompson, Western University and Lucia Costanzo, University of Guelph</b>
+<p>R is an open-source software environment for data manipulation and statistical analysis. Used in a variety of disciplines, R has become a popular tool because of its power, flexibility, and active community. Join us as we teach the R language fundamentals and basic syntax, major R data structures and generate basic descriptive statistics.
+	
+No programming skills are required for this workshop, just an interest and/or desire to learn. Please bring a laptop for your own use during the workshop. Before attending the workshop, please complete the following:
+•	Download and Install R
+o	Windows User: https://cran.r-project.org/bin/windows/base/
+o	Mac User: https://cran.r-project.org/bin/macosx/
+
+•	Install RStudio Desktop: https://www.rstudio.com/products/rstudio/download/
+•	What is R used for? Introduction to RStudio basics (5 min): https://youtu.be/SWxoJqTqo08?t=26s
+ 
+Please note: All software installation must be done before the workshop, please ensure that you followed the software installation instructions. Out of courtesy to the class, we will not be able to troubleshoot software set up during class time. As well, please ensure you have administration rights on your computer to install the software. This will allow you to install R packages.  If you have any issues, please contact the IT Help desk on your campus.</p>
+
 
 </tr>
 
