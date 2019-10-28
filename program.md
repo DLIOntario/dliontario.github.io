@@ -158,7 +158,7 @@ Presenters: Kristi Thompson, Western University and Lucia Costanzo, University o
 <b><a name="2-10d">1515-1645: OJN 208 -  Concurrent Workshop D: RTRA: Opening the jail doors -- letting the data out</a><br>
 	Presenters: Susan Mowers and Chantal Ripp, University of Ottawa</b>
 
-<p>Participants will use RTRA to link data on crimes with those involved in crimes to create original tables not available through the DLI. This workshop will show participants how to use RTRA to link and describe crime from the circumstances and characteristics of crimes, together with the basic demographics and charges for all accused, and for violent crimes, the basic demographics of the victim(s) of a crime and their relationship(s) to the accused. The data is from the Uniform Crime Report survey, virtually a 100% sample of police-reported criminal violations. This workshop is particularly timely as students and researchers of all backgrounds will soon be able to retrieve this RTRA data using the GUI interface now in testing.
+<p>Participants will use RTRA to link data on crimes with those involved in crimes to create original tables not available through the DLI. This workshop will show participants how to use RTRA to link and describe crime from the circumstances and characteristics of crimes, together with the basic demographics and charges for all accused, and for violent crimes, the basic demographics of the victim(s) of a crime and their relationship(s) to the accused. The data is from the Uniform Crime Report survey, virtually a 100% sample of police-reported criminal violations. This workshop is particularly timely as students and researchers of all backgrounds will soon be able to retrieve this RTRA data using the GUI interface now in testing.</p>
 
 </tr>
 
