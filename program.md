@@ -137,7 +137,7 @@ Tour Guide: Peter Kitchen</b><br>
 <p>
 <tr>
 <b><a name="2-10c">1515-1645: OJN 111 -  Concurrent Workshop C: Introduction to R Programming</a><br>
-Presenter: Kristi Thompson, Western University and Lucia Costanzo, University of Guelph</b>
+Presenters: Kristi Thompson, Western University and Lucia Costanzo, University of Guelph</b>
 <p>R is an open-source software environment for data manipulation and statistical analysis. Used in a variety of disciplines, R has become a popular tool because of its power, flexibility, and active community. Join us as we teach the R language fundamentals and basic syntax, major R data structures and generate basic descriptive statistics.
 	
 No programming skills are required for this workshop, just an interest and/or desire to learn. Please bring a laptop for your own use during the workshop. Before attending the workshop, please complete the following:</p>
