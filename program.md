@@ -165,9 +165,9 @@ Presenters: Kristi Thompson, Western University and Lucia Costanzo, University o
 <p>
 
 <tr>
-<b><a name="2-11">1800: Dinner</a></b><br>
-
-- Location TBA
+<b><a name="2-11">1800: Dinner</a></b>
+	<p><a href="https://joechatelain1989.wixsite.com/papagayohamilton">Restaurant Papagayo</a><br>
+		Location: 246 King Street West, Hamilton, ON L8P1A9</p>
 
 </tr>
 
