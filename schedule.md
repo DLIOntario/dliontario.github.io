@@ -152,8 +152,8 @@ The ODC Meeting will take place on Monday, December 2, 2019 from 10:30 am - 4:30
     </tr>
     <tr>
     <td>1800</td>
-    <td>TBA</td>
-    <td><a name="2-11" href="/program/#2-11">Dinner</a></td>
+    <td>246 King Street West, Hamilton, ON L8P1A9</td>
+    <td><a name="2-11" href="/program/#2-11">Dinner at Restaurant Papagayo</a></td>
     <td></td>
     </tr>
    </tbody>
