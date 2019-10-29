@@ -88,7 +88,7 @@ The ODC Meeting will take place on Monday, December 2, 2019 from 10:30 am - 4:30
     <td>0915-1000</td>
     <td>OJN 111</td>
     <td><a name="2-3" href="/program/#2-3">DLI Update</a></td>
-    <td>TBA</td>
+    <td>Geneviève Jourdain</td>
     </tr>
     <tr>
     <td>1000-1030</td>
