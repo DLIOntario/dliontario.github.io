@@ -17,16 +17,16 @@ permalink: /program/
  </thead>
 <tbody>
    <tr>   
-	   <b><a name="1-1">0830-0900: OJN 111 - Arrival and Refreshments</a></b> <br>
+	   <b><a name="1-1">0830-0900: OJN 213 - Arrival and Refreshments</a></b> <br>
 </tr>
 <p>
 <tr>
-	<b><a name="1-2">0900-0915: OJN 111 - Welcome and Housekeeping</a></b><br>
+	<b><a name="1-2">0900-0915: OJN 213 - Welcome and Housekeeping</a></b><br>
 
 </tr>	
 <p>
 <tr>
-	<b><a name="1-3">0915-1630: OJN 111 - Statistics Canada Workshop: Introduction to Basic Statistics</a><br>
+	<b><a name="1-3">0915-1630: OJN 213 - Statistics Canada Workshop: Introduction to Basic Statistics</a><br>
 Presenter: Ahmed Almaskut, Statistics Canada</b>	
 <p>A quick refresher course for those who have had statistical training in the past or a fast-paced introduction to basic statistics for beginners. Statistical measures such as percentages, averages, frequency and standard error are used widely. But how are they calculated, and exactly what do they tell us? This one day workshop will help participants develop an appreciation of the potential of statistics and a critical eye of when and how they should or shouldn't be used.</p>
 </tr>	
@@ -54,25 +54,25 @@ Presenter: Ahmed Almaskut, Statistics Canada</b>
 <p>
 	
 <tr>
-<b><a name="2-1">0830-0900: OJN 111 - Arrival and Refreshments; Informal Meet and Greet with Stat Can</a></b><br>
+<b><a name="2-1">0830-0900: OJN 213 - Arrival and Refreshments; Informal Meet and Greet with Stat Can</a></b><br>
 
 </tr>
 <p>
 	
 <tr>
-<b><a name="2-2">0900-0915: OJN 111 - Welcome and Housekeeping</a></b><br>
+<b><a name="2-2">0900-0915: OJN 213 - Welcome and Housekeeping</a></b><br>
 
 </tr>
 <p>
 
 <tr>
-<b><a name="2-3">0915-1000: OJN 111 - DLI Update</a></b><br>
+<b><a name="2-3">0915-1000: OJN 213 - DLI Update</a></b><br>
 </tr>
 
 <p>
 
 <tr>
-<b><a name="2-4">1000-1030: OJN 111 - Presentation</a></b><br>
+<b><a name="2-4">1000-1030: OJN 213 - Presentation</a></b><br>
 
 - Jane Fry
 </tr>
@@ -87,7 +87,7 @@ Presenter: Ahmed Almaskut, Statistics Canada</b>
 <p>
 
 <tr>
-<b><a name="2-6">1045-1215: OJN 111 - Presentation on Picasso</a><br>
+<b><a name="2-6">1045-1215: OJN 213 - Presentation on Picasso</a><br>
 Presenter: Cory Chobanik</b><br>
 - Description coming soon!
 
@@ -105,7 +105,7 @@ Presenter: Cory Chobanik</b><br>
 <p>
 
 <tr>
-<b><a name="2-8a">1345-1500: OJN 111 - Concurrent Workshop A: Census and GIS</a><br>
+<b><a name="2-8a">1345-1500: OJN 213 - Concurrent Workshop A: Census and GIS</a><br>
 Presenter: Liz Sutherland</b><br>
 - Description coming soon!
 
@@ -136,7 +136,7 @@ Tour Guide: Peter Kitchen</b><br>
 
 <p>
 <tr>
-<b><a name="2-10c">1515-1645: OJN 111 -  Concurrent Workshop C: Introduction to R Programming</a><br>
+<b><a name="2-10c">1515-1645: OJN 213 -  Concurrent Workshop C: Introduction to R Programming</a><br>
 Presenters: Kristi Thompson, Western University and Lucia Costanzo, University of Guelph</b>
 <p>R is an open-source software environment for data manipulation and statistical analysis. Used in a variety of disciplines, R has become a popular tool because of its power, flexibility, and active community. Join us as we teach the R language fundamentals and basic syntax, major R data structures and generate basic descriptive statistics.</p>
 	
