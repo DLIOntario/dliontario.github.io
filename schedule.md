@@ -22,19 +22,19 @@ The ODC Meeting will take place on Monday, December 2, 2019 from 10:30 am - 4:30
   <tbody>
     <tr>
 	<td>0830-0900</td>
-	<td>OJN 111</td>
+	<td>OJN 213</td>
 	<td><a name="1-1" href="/program/#1-1">Arrival and Refreshments</a></td>
 	<td></td>
     </tr>
     <tr>
     <td>0900-0915</td>
-    <td>OJN 111</td>
+    <td>OJN 213</td>
     <td><a name="1-2" href="/program/#1-2">Welcome and Housekeeping</a></td>
     <td></td>
     </tr>
     <tr>
     <td>0915-1630</td>
-    <td>OJN 111</td>
+    <td>OJN 213</td>
     <td><a name="1-3" href="/program/#1-3">Statistics Canada Workshop Introduction to Basic Statistics</a></td>
     <td>Ahmed Almaskut, Statistics Canada</td>
     </tr>
@@ -74,25 +74,25 @@ The ODC Meeting will take place on Monday, December 2, 2019 from 10:30 am - 4:30
   <tbody>
     <tr>
 	<td>0830-0900</td>
-	<td>OJN 111</td>
+	<td>OJN 213</td>
 	<td><a name="2-1" href="/program/#2-1">Arrival and Refreshments; Informal Meet and Greet with Stat Can</a></td>
 	<td>Geneviève Jourdain</td>
     </tr>
     <tr>
     <td>0900-0915</td>
-    <td>OJN 111</td>
+    <td>OJN 213</td>
     <td><a name="2-2" href="/program/#2-2">Welcome and Housekeeping</a></td>
     <td></td>
     </tr>
     <tr>
     <td>0915-1000</td>
-    <td>OJN 111</td>
+    <td>OJN 213</td>
     <td><a name="2-3" href="/program/#2-3">DLI Update</a></td>
     <td>Geneviève Jourdain</td>
     </tr>
     <tr>
     <td>1000-1030</td>
-    <td>OJN 111</td>
+    <td>OJN 213</td>
     <td><a name="2-4" href="/program/#2-4">Presentation</a></td>
     <td>Jane Fry</td>
     </tr>
@@ -104,7 +104,7 @@ The ODC Meeting will take place on Monday, December 2, 2019 from 10:30 am - 4:30
     </tr>
     <tr>
     <td>1045-1215</td>
-    <td>OJN 111</td>
+    <td>OJN 213</td>
     <td><a name="2-6" href="/program/#2-6">Presentation on Picasso</a></td>
     <td>Cory Chobanik</td>
     </tr>
@@ -116,7 +116,7 @@ The ODC Meeting will take place on Monday, December 2, 2019 from 10:30 am - 4:30
     </tr>
     <tr>
     <td>1345-1500</td>
-    <td>OJN 111</td>
+    <td>OJN 213</td>
     <td><a name="2-8a" href="/program/#2-8a">Concurrent Workshop A: Census and GIS</a></td>
     <td>Liz Sutherland</td>
     </tr>
@@ -140,7 +140,7 @@ The ODC Meeting will take place on Monday, December 2, 2019 from 10:30 am - 4:30
     </tr>
     <tr>
     <td>1515-1645</td>
-    <td>OJN 111</td>
+    <td>OJN 213</td>
     <td><a name="2-10c" href="/program/#2-10c">Concurrent Workshop C: Introduction to R Programming</a></td>
     <td>Kristi Thompson and Lucia Costanzo</td>
     </tr>
