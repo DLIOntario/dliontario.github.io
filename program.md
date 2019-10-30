@@ -202,9 +202,8 @@ Description coming soon!
 <p>
 
 <tr>
-<b><a name="3-4">1045-1200: The Statistics Canada Research Data Centre (RDC): Supporting access to micro-data at 
-McMaster University 
-</a><br>
+<b><a name="3-4">1045-1200: OJN 111 - The Statistics Canada Research Data Centre (RDC): Supporting access to micro-data at 
+McMaster University</a><br>
 Presenter: Peter Kitchen, McMaster RDC</b>
 
 <p>This session follows four themes. First, it will describe the RDC, the principal data it supports and the application process. Second, it will discuss the growth in administrative and linked administrative data files being made available by Statistics Canada. Third, it will highlight some of the pilot data, particularly business related, that the RDC hosts. The session concludes with a discussion on how the McMaster RDC and Data Services (DLI) has worked together to promote the use of data on campus to meet the needs of researchers.</p>
@@ -220,7 +219,7 @@ Presenter: Peter Kitchen, McMaster RDC</b>
 <p>
 
 <tr>
-<b><a name="3-5a">1300-1330: Historical Census Data Project Update</a><br>
+<b><a name="3-5a">1300-1330: OJN 111 - Historical Census Data Project Update</a><br>
 Presenter: Leanne Trimble, University of Toronto</b><br>
 Description coming soon!
 </tr>
@@ -228,7 +227,7 @@ Description coming soon!
 <p>
 
 <tr>
-<b><a name="3-5b">1330-1400: Presentation on DLI External Advisory Committee and Professional Development Committee</a><br>
+<b><a name="3-5b">1330-1400: OJN 111 - Presentation on DLI External Advisory Committee and Professional Development Committee</a><br>
 Presenter: Claire Wollen, Sheridan College and Alexandra Cooper, Queen’s University</b><br>
 Description coming soon!
 </tr>
