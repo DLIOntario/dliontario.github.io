@@ -220,8 +220,10 @@ Presenter: Peter Kitchen, McMaster RDC</b>
 
 <tr>
 <b><a name="3-5a">1300-1330: OJN 111 - Historical Census Data Project Update</a><br>
-Presenter: Leanne Trimble, University of Toronto</b><br>
-Description coming soon!
+Presenters: Leanne Trimble, University of Toronto and Susan Mowers, University of Ottawa</b>
+
+<p>OCUL’s Historical Census Working Group (part of the OCUL Data Community) is working on scoping a comprehensive bilingual inventory of Canadian census data. Our dream is to eventually build a bilingual and openly available discovery platform for census data & statistical tables (print & digital) going back to the earliest Canadian censuses. This presentation will provide a status update on the project and dedicate time for attendees to discuss the project and provide input.</p>
+	
 </tr>
 
 <p>
