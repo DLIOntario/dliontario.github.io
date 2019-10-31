@@ -207,7 +207,7 @@ McMaster University</a></td>
     <td>1300-1330</td>
     <td>OJN 111</td>
     <td><a name="3-5a" href="/program/#3-5">Historical Census Data Project Update</a></td>
-    <td>Leanne Trimble, University of Toronto</td>
+    <td>Leanne Trimble, University of Toronto and Susan Mowers, University of Ottawa</td>
     </tr>
     <tr>
     <td>1330-1400</td>
