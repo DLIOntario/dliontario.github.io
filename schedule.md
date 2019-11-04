@@ -182,7 +182,7 @@ The ODC Meeting will take place on Monday, December 2, 2019 from 10:30 am - 4:30
     <td>0900-1030</td>
     <td>OJN 111</td>
     <td><a name="3-2" href="/program/#3-2">Business Data Presentation</a></td>
-    <td>Douwere Grekou, CEDR</td>
+    <td>Alessandro Alasia, Centre for Special Business Projects</td>
     </tr>
     <tr>
     <td>1030-1045</td>
