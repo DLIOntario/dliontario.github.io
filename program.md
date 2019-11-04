@@ -188,8 +188,8 @@ Presenters: Kristi Thompson, Western University and Lucia Costanzo, University o
 
 <tr>
 <b><a name="3-2">0900-1030: OJN 111 - Business Data Presentation</a><br>
-	Presenter: Douwere Grekou, CEDR</b><br>
-Description coming soon!
+Presenter: Alessandro Alasia, Centre for Special Business Projects</b>
+<p>This presentation will cover the following three main areas of work of Centre for Special Business projects division: Linkable File Environment, Special (Business) surveys, and emerging work with open microdata. This data is available through CDER.</p>
 
 </tr>
 <p>
