@@ -143,10 +143,10 @@ Presenters: Kristi Thompson, Western University and Lucia Costanzo, University o
 <p>No programming skills are required for this workshop, just an interest and/or desire to learn. Please bring a laptop for your own use during the workshop. Before attending the workshop, please complete the following:</p>
 
 <p><ul><b>Download and Install R</b>
-	<li>Windows User: https://cran.r-project.org/bin/windows/base/</li>
-	<li>Mac User: https://cran.r-project.org/bin/macosx/</li> 
-	<li>Install RStudio Desktop: https://www.rstudio.com/products/rstudio/download/</li>
-	<li>What is R used for? Introduction to RStudio basics (5 min): https://youtu.be/SWxoJqTqo08?t=26s</li>
+	<li>Windows User: <a href="https://cran.r-project.org/bin/windows/base/">https://cran.r-project.org/bin/windows/base/</a></li>
+	<li>Mac User: <a href="https://cran.r-project.org/bin/macosx/">https://cran.r-project.org/bin/macosx/</a></li> 
+	<li>Install RStudio Desktop: <a href="https://www.rstudio.com/products/rstudio/download/">https://www.rstudio.com/products/rstudio/download/</a></li>
+	<li>What is R used for? Introduction to RStudio basics (5 min): <a href="https://youtu.be/SWxoJqTqo08?t=26s">https://youtu.be/SWxoJqTqo08?t=26s</a></li>
 </ul></p>
 	
 <p><b>Please note:</b> All software installation must be done before the workshop, please ensure that you followed the software installation instructions. Out of courtesy to the class, we will not be able to troubleshoot software set up during class time. As well, please ensure you have administration rights on your computer to install the software. This will allow you to install R packages.  If you have any issues, please contact the IT Help desk on your campus.</p>
