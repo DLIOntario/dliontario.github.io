@@ -117,7 +117,7 @@ The ODC Meeting will take place on Monday, December 2, 2019 from 10:30 am - 4:30
     <tr>
     <td>1345-1500</td>
     <td>OJN 213</td>
-    <td><a name="2-8a" href="/program/#2-8a">Concurrent Workshop A: Census and GIS</a></td>
+    <td><a name="2-8a" href="/program/#2-8a">Concurrent Workshop A: Mapping the Census Using Open-Source GIS</a></td>
     <td>Liz Sutherland</td>
     </tr>
     <tr>
