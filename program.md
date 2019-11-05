@@ -37,8 +37,6 @@ Presenter: Ahmed Almaskut, Statistics Canada</b>
 <p>
 <tr>
 	<b><a name="1-6">1200-1330: Lunch (on your own)</a></b><br>
-
-- Details coming soon!
 </tr>
 <p>
 <tr>
@@ -97,8 +95,6 @@ Presenter: Cory Chobanik</b><br>
 
 <tr>
 <b><a name="2-7">1215-1345: Lunch (on your own)</a></b><br>
-
-- Details coming soon!
 
 </tr>
 
