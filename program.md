@@ -111,8 +111,8 @@ Presenter: Liz Sutherland</b>
 
 <tr>
 <b><a name="2-8b">1345-1500: OJN 208 - 	Concurrent Workshop B: Analyzing and Managing Data in Excel</a><br>
-Presenter: Lise Doucette</b><br>
-- Description coming soon!
+Presenter: Lise Doucette</b>
+<p>Learn a few ways to speed up your work and accomplish tasks that you didn’t know Excel could do.  This workshop will introduce you to functions that allow you to create and customize cross-tabs (pivot tables), find information within large data sets, join two data sets together on a common variable, and use conditional formatting to highlight key information.  The workshop will be led using Excel for Office 365 – participants are asked to bring a laptop with a locally installed version of Excel 2013 or later (many of these functions cannot be accomplished with the online version of Excel).</p>
 
 </tr>
 
