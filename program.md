@@ -86,8 +86,7 @@ Presenter: Ahmed Almaskut, Statistics Canada</b>
 
 <tr>
 <b><a name="2-6">1045-1215: OJN 213 - Presentation on Picasso</a><br>
-Presenter: Cory Chobanik</b><br>
-- Description coming soon!
+Presenter: Cory Chobanik</b>
 
 </tr>
 
