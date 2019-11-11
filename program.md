@@ -226,7 +226,7 @@ Presenters: Leanne Trimble, University of Toronto and Susan Mowers, University o
 <tr>
 <b><a name="3-5b">1330-1400: OJN 111 - Presentation on DLI External Advisory Committee and Professional Development Committee</a><br>
 Presenter: Claire Wollen, Sheridan College and Alexandra Cooper, Queen’s University</b><br>
-Description coming soon!
+An overview of the External Advisory Committee and the Professional Development Committee. 
 </tr>
 
 <p>
