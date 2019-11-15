@@ -70,9 +70,10 @@ Presenter: Ahmed Almaskut, Statistics Canada</b>
 <p>
 
 <tr>
-<b><a name="2-4">1000-1030: OJN 213 - Presentation</a></b><br>
-
-- Jane Fry
+<b><a name="2-4">1000-1030: OJN 213 - The Data Reference Interview</a><br>
+Presenter: Jane Fry</b>
+<p>I want some data.” What would you do with this question? How would you determine what the client wants? Does the client really know what they want or will you have to help them decide?  It is essential to determine the needs of the client. The reference interview must be conducted in a professional manner during which active listening must be practiced. As well, any steps you take to answer the client’s request must be explained clearly to them so they will not only understand why you are giving them the answer you are, but they will also be able to replicate the search process on their own, if need be.</p>
+	
 </tr>
 
 <p>
