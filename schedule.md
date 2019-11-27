@@ -33,7 +33,7 @@ The ODC Meeting will take place on Monday, December 2, 2019 from 10:30 am - 4:30
     <td></td>
     </tr>
     <tr>
-    <td>0915-1630</td>
+    <td>0915-1600</td>
     <td>OJN 213</td>
     <td><a name="1-3" href="/program/#1-3">Statistics Canada Workshop Introduction to Basic Statistics</a></td>
     <td>Ahmed Almaskut, Statistics Canada</td>
@@ -45,7 +45,7 @@ The ODC Meeting will take place on Monday, December 2, 2019 from 10:30 am - 4:30
     <td></td>
     </tr>
     <tr>
-    <td>1200-1330</td>
+    <td>1200-1300</td>
     <td></td>
     <td><a name="1-6" href="/program/#1-6">Lunch (on your own)</a></td>
     <td></td>
