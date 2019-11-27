@@ -103,8 +103,8 @@ Presenter: Cory Chobanik</b>
 <tr>
 <b><a name="2-8a">1345-1500: OJN 213 - Concurrent Workshop A: Mapping the Census Using Open-Source GIS</a><br>
 Presenter: Liz Sutherland</b>
-<p>Maps have always been a powerful tool for visualizing data. Participants will learn how to link the static data of census tables to census geographies by using open-source GIS software. Participants will learn how to join data, calculate new attributes, symbolize geography and create maps. No prior GIS experience is necessary. QGIS will be required to be downloaded prior to the workshop, and laptops will be required. Download instructions <a href="https://qgis.org/en/site/forusers/download.html">https://qgis.org/en/site/forusers/download.html</a><br>
-	Download <a href="https://drive.google.com/drive/folders/1xrAj_BrPtMDBgdi9MXWGcrcuVGfTsGgi?usp=sharing">Data Files</a> for this workshop.</p>
+<p>Maps have always been a powerful tool for visualizing data. Participants will learn how to link the static data of census tables to census geographies by using open-source GIS software. Participants will learn how to join data, calculate new attributes, symbolize geography and create maps. No prior GIS experience is necessary. QGIS will be required to be downloaded prior to the workshop, and laptops will be required. Download instructions <a href="https://qgis.org/en/site/forusers/download.html">https://qgis.org/en/site/forusers/download.html</a>. <b>
+	Download <a href="https://drive.google.com/drive/folders/1xrAj_BrPtMDBgdi9MXWGcrcuVGfTsGgi?usp=sharing">Data Files</a> for this workshop.</b></p>
 
 </tr>
 
