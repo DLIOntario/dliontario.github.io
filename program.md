@@ -3,7 +3,7 @@ layout: page
 title: Program
 permalink: /program/
 ---
-<p><h2>DLI Training | <a href=" | <a href="https://forms.gle/vgtqKQaNsqRTkvnv5">2019 DLI Training Evaluation Form</a>">2019 DLI Ontario Training Evaluation Form</a></h2></p> 
+<p><h2>DLI Training | <a href="https://forms.gle/vgtqKQaNsqRTkvnv5">2019 DLI Training Evaluation Form</a>">2019 DLI Ontario Training Evaluation Form</a></h2></p> 
 <p><b><a name="day-one">Day 1 (Tuesday)</a> | <a href="#day-two">[Day 2 (Wednesday)]</a> | <a href="#day-three">[Day 3 (Thursday)]</a></b>
 </p>
 
